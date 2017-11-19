@@ -1,0 +1,4832 @@
+zipcode,type,count
+10001,African,1
+10001,American,1
+10001,Armenian,1
+10001,Asian,1
+10001,Bagels/Pretzels,1
+10001,Bakery,1
+10001,Barbecue,1
+10001,"Bottled beverages, including water, sodas, juices, etc.",1
+10001,CafÃ©/Coffee/Tea,1
+10001,Chinese,1
+10001,Continental,1
+10001,Delicatessen,1
+10001,Donuts,1
+10001,English,1
+10001,French,1
+10001,Greek,1
+10001,Hamburgers,1
+10001,Hotdogs,1
+10001,Hotdogs/Pretzels,1
+10001,"Ice Cream, Gelato, Yogurt, Ices",1
+10001,Indian,1
+10001,Irish,1
+10001,Italian,1
+10001,Japanese,1
+10001,Jewish/Kosher,1
+10001,"Juice, Smoothies, Fruit Salads",1
+10001,Korean,1
+10001,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10001,Mediterranean,1
+10001,Mexican,1
+10001,Middle Eastern,1
+10001,Other,1
+10001,Pakistani,1
+10001,Peruvian,1
+10001,Pizza,1
+10001,Pizza/Italian,1
+10001,Portuguese,1
+10001,Russian,1
+10001,Salads,1
+10001,Sandwiches,1
+10001,Sandwiches/Salads/Mixed Buffet,1
+10001,Seafood,1
+10001,Soups & Sandwiches,1
+10001,Spanish,1
+10001,Steak,1
+10001,Tapas,1
+10001,Tex-Mex,1
+10001,Thai,1
+10001,Vegetarian,1
+10002,American,1
+10002,Asian,1
+10002,Australian,1
+10002,Bagels/Pretzels,1
+10002,Bakery,1
+10002,Barbecue,1
+10002,Brazilian,1
+10002,CafÃ©/Coffee/Tea,1
+10002,Chicken,1
+10002,Chinese,1
+10002,Creole,1
+10002,Delicatessen,1
+10002,Donuts,1
+10002,Eastern European,1
+10002,English,1
+10002,Filipino,1
+10002,French,1
+10002,German,1
+10002,Greek,1
+10002,Hamburgers,1
+10002,"Ice Cream, Gelato, Yogurt, Ices",1
+10002,Indian,1
+10002,Irish,1
+10002,Italian,1
+10002,Japanese,1
+10002,"Juice, Smoothies, Fruit Salads",1
+10002,Korean,1
+10002,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10002,Mediterranean,1
+10002,Mexican,1
+10002,Middle Eastern,1
+10002,Other,1
+10002,Peruvian,1
+10002,Pizza,1
+10002,Pizza/Italian,1
+10002,Sandwiches,1
+10002,Sandwiches/Salads/Mixed Buffet,1
+10002,Seafood,1
+10002,Soups,1
+10002,Spanish,1
+10002,Steak,1
+10002,Tapas,1
+10002,Tex-Mex,1
+10002,Thai,1
+10002,Vegetarian,1
+10002,Vietnamese/Cambodian/Malaysia,1
+10003,Afghan,1
+10003,American,1
+10003,Armenian,1
+10003,Asian,1
+10003,Australian,1
+10003,Bagels/Pretzels,1
+10003,Bakery,1
+10003,Bangladeshi,1
+10003,Barbecue,1
+10003,"Bottled beverages, including water, sodas, juices, etc.",1
+10003,CafÃ©/Coffee/Tea,1
+10003,Chicken,1
+10003,Chinese,1
+10003,Chinese/Cuban,1
+10003,Chinese/Japanese,1
+10003,Delicatessen,1
+10003,Donuts,1
+10003,Eastern European,1
+10003,Ethiopian,1
+10003,Filipino,1
+10003,French,1
+10003,Greek,1
+10003,Hamburgers,1
+10003,Hawaiian,1
+10003,Hotdogs,1
+10003,Hotdogs/Pretzels,1
+10003,"Ice Cream, Gelato, Yogurt, Ices",1
+10003,Indian,1
+10003,Indonesian,1
+10003,Iranian,1
+10003,Irish,1
+10003,Italian,1
+10003,Japanese,1
+10003,Jewish/Kosher,1
+10003,"Juice, Smoothies, Fruit Salads",1
+10003,Korean,1
+10003,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10003,Mediterranean,1
+10003,Mexican,1
+10003,Middle Eastern,1
+10003,Moroccan,1
+10003,Other,1
+10003,Peruvian,1
+10003,Pizza,1
+10003,Pizza/Italian,1
+10003,Polish,1
+10003,Russian,1
+10003,Salads,1
+10003,Sandwiches,1
+10003,Sandwiches/Salads/Mixed Buffet,1
+10003,Seafood,1
+10003,Soups & Sandwiches,1
+10003,Spanish,1
+10003,Steak,1
+10003,Tapas,1
+10003,Tex-Mex,1
+10003,Thai,1
+10003,Vegetarian,1
+10003,Vietnamese/Cambodian/Malaysia,1
+10004,American,1
+10004,Asian,1
+10004,Bagels/Pretzels,1
+10004,Bakery,1
+10004,CafÃ©/Coffee/Tea,1
+10004,Chinese,1
+10004,Continental,1
+10004,Delicatessen,1
+10004,Donuts,1
+10004,French,1
+10004,German,1
+10004,Hamburgers,1
+10004,Hawaiian,1
+10004,Hotdogs/Pretzels,1
+10004,"Ice Cream, Gelato, Yogurt, Ices",1
+10004,Indian,1
+10004,Irish,1
+10004,Italian,1
+10004,Japanese,1
+10004,Jewish/Kosher,1
+10004,"Juice, Smoothies, Fruit Salads",1
+10004,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10004,Mediterranean,1
+10004,Mexican,1
+10004,Pizza,1
+10004,Pizza/Italian,1
+10004,Salads,1
+10004,Sandwiches,1
+10004,Sandwiches/Salads/Mixed Buffet,1
+10004,Scandinavian,1
+10004,Seafood,1
+10004,Soups & Sandwiches,1
+10004,Steak,1
+10004,Thai,1
+10005,American,1
+10005,Armenian,1
+10005,CafÃ©/Coffee/Tea,1
+10005,Chinese,1
+10005,Chinese/Japanese,1
+10005,Delicatessen,1
+10005,Donuts,1
+10005,English,1
+10005,French,1
+10005,Greek,1
+10005,Hawaiian,1
+10005,Indian,1
+10005,Irish,1
+10005,Italian,1
+10005,Japanese,1
+10005,Jewish/Kosher,1
+10005,"Juice, Smoothies, Fruit Salads",1
+10005,Mexican,1
+10005,Other,1
+10005,Pizza,1
+10005,Salads,1
+10005,Sandwiches/Salads/Mixed Buffet,1
+10005,Soups & Sandwiches,1
+10005,Vietnamese/Cambodian/Malaysia,1
+10006,American,1
+10006,Asian,1
+10006,CafÃ©/Coffee/Tea,1
+10006,Chicken,1
+10006,Chinese,1
+10006,Donuts,1
+10006,Eastern European,1
+10006,Greek,1
+10006,Hamburgers,1
+10006,Indian,1
+10006,Irish,1
+10006,Jewish/Kosher,1
+10006,Mexican,1
+10006,Other,1
+10006,Pizza,1
+10006,Sandwiches,1
+10006,Sandwiches/Salads/Mixed Buffet,1
+10006,Steak,1
+10007,American,1
+10007,Asian,1
+10007,Bagels/Pretzels,1
+10007,Bakery,1
+10007,Bangladeshi,1
+10007,CafÃ©/Coffee/Tea,1
+10007,Chicken,1
+10007,Chinese,1
+10007,Delicatessen,1
+10007,Donuts,1
+10007,French,1
+10007,"Ice Cream, Gelato, Yogurt, Ices",1
+10007,Indian,1
+10007,Irish,1
+10007,Italian,1
+10007,Japanese,1
+10007,"Juice, Smoothies, Fruit Salads",1
+10007,Korean,1
+10007,Mediterranean,1
+10007,Mexican,1
+10007,Middle Eastern,1
+10007,Other,1
+10007,Pizza,1
+10007,Pizza/Italian,1
+10007,Sandwiches,1
+10007,Sandwiches/Salads/Mixed Buffet,1
+10007,Soups & Sandwiches,1
+10007,Spanish,1
+10007,Steak,1
+10007,Tex-Mex,1
+10007,Vegetarian,1
+10009,American,1
+10009,Asian,1
+10009,Australian,1
+10009,Bagels/Pretzels,1
+10009,Bakery,1
+10009,"Bottled beverages, including water, sodas, juices, etc.",1
+10009,Brazilian,1
+10009,CafÃ©/Coffee/Tea,1
+10009,Caribbean,1
+10009,Chicken,1
+10009,Chinese,1
+10009,Continental,1
+10009,Delicatessen,1
+10009,Donuts,1
+10009,Eastern European,1
+10009,Ethiopian,1
+10009,French,1
+10009,German,1
+10009,Greek,1
+10009,Hamburgers,1
+10009,"Ice Cream, Gelato, Yogurt, Ices",1
+10009,Indian,1
+10009,Irish,1
+10009,Italian,1
+10009,Japanese,1
+10009,"Juice, Smoothies, Fruit Salads",1
+10009,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10009,Mediterranean,1
+10009,Mexican,1
+10009,Middle Eastern,1
+10009,Moroccan,1
+10009,Other,1
+10009,Pizza,1
+10009,Pizza/Italian,1
+10009,Portuguese,1
+10009,Russian,1
+10009,Sandwiches,1
+10009,Sandwiches/Salads/Mixed Buffet,1
+10009,Seafood,1
+10009,Soul Food,1
+10009,Spanish,1
+10009,Tapas,1
+10009,Tex-Mex,1
+10009,Thai,1
+10009,Vegetarian,1
+10009,Vietnamese/Cambodian/Malaysia,1
+10010,American,1
+10010,Asian,1
+10010,Bagels/Pretzels,1
+10010,Bakery,1
+10010,Barbecue,1
+10010,CafÃ©/Coffee/Tea,1
+10010,Chicken,1
+10010,Chinese,1
+10010,Continental,1
+10010,Delicatessen,1
+10010,Donuts,1
+10010,Eastern European,1
+10010,Filipino,1
+10010,French,1
+10010,German,1
+10010,Greek,1
+10010,Hamburgers,1
+10010,Hawaiian,1
+10010,"Ice Cream, Gelato, Yogurt, Ices",1
+10010,Indian,1
+10010,Irish,1
+10010,Italian,1
+10010,Japanese,1
+10010,"Juice, Smoothies, Fruit Salads",1
+10010,Korean,1
+10010,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10010,Mediterranean,1
+10010,Mexican,1
+10010,Middle Eastern,1
+10010,Not Listed/Not Applicable,1
+10010,Other,1
+10010,Peruvian,1
+10010,Pizza,1
+10010,Pizza/Italian,1
+10010,Polish,1
+10010,Salads,1
+10010,Sandwiches,1
+10010,Sandwiches/Salads/Mixed Buffet,1
+10010,Seafood,1
+10010,Soups & Sandwiches,1
+10010,Steak,1
+10010,Tapas,1
+10010,Tex-Mex,1
+10010,Thai,1
+10010,Vegetarian,1
+10010,Vietnamese/Cambodian/Malaysia,1
+10011,American,1
+10011,Armenian,1
+10011,Asian,1
+10011,Australian,1
+10011,Bagels/Pretzels,1
+10011,Bakery,1
+10011,Barbecue,1
+10011,"Bottled beverages, including water, sodas, juices, etc.",1
+10011,CafÃ©/Coffee/Tea,1
+10011,Caribbean,1
+10011,Chicken,1
+10011,Chilean,1
+10011,Chinese,1
+10011,Chinese/Cuban,1
+10011,Donuts,1
+10011,Eastern European,1
+10011,English,1
+10011,Filipino,1
+10011,French,1
+10011,German,1
+10011,Greek,1
+10011,Hamburgers,1
+10011,Hawaiian,1
+10011,"Ice Cream, Gelato, Yogurt, Ices",1
+10011,Indian,1
+10011,Irish,1
+10011,Italian,1
+10011,Japanese,1
+10011,"Juice, Smoothies, Fruit Salads",1
+10011,Korean,1
+10011,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10011,Mediterranean,1
+10011,Mexican,1
+10011,Middle Eastern,1
+10011,Nuts/Confectionary,1
+10011,Pizza,1
+10011,Pizza/Italian,1
+10011,Portuguese,1
+10011,Salads,1
+10011,Sandwiches,1
+10011,Sandwiches/Salads/Mixed Buffet,1
+10011,Seafood,1
+10011,Soups & Sandwiches,1
+10011,Spanish,1
+10011,Tex-Mex,1
+10011,Thai,1
+10011,Turkish,1
+10011,Vegetarian,1
+10011,Vietnamese/Cambodian/Malaysia,1
+10012,American,1
+10012,Asian,1
+10012,Australian,1
+10012,Bakery,1
+10012,Bangladeshi,1
+10012,"Bottled beverages, including water, sodas, juices, etc.",1
+10012,Brazilian,1
+10012,CafÃ©/Coffee/Tea,1
+10012,Californian,1
+10012,Caribbean,1
+10012,Chinese,1
+10012,Delicatessen,1
+10012,Donuts,1
+10012,Eastern European,1
+10012,Ethiopian,1
+10012,French,1
+10012,Hamburgers,1
+10012,Hawaiian,1
+10012,"Ice Cream, Gelato, Yogurt, Ices",1
+10012,Indian,1
+10012,Indonesian,1
+10012,Irish,1
+10012,Italian,1
+10012,Japanese,1
+10012,Jewish/Kosher,1
+10012,"Juice, Smoothies, Fruit Salads",1
+10012,Korean,1
+10012,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10012,Mediterranean,1
+10012,Mexican,1
+10012,Middle Eastern,1
+10012,Moroccan,1
+10012,Nuts/Confectionary,1
+10012,Other,1
+10012,Pizza,1
+10012,Pizza/Italian,1
+10012,Salads,1
+10012,Sandwiches,1
+10012,Sandwiches/Salads/Mixed Buffet,1
+10012,Seafood,1
+10012,Spanish,1
+10012,Tapas,1
+10012,Thai,1
+10012,Turkish,1
+10012,Vegetarian,1
+10012,Vietnamese/Cambodian/Malaysia,1
+10013,American,1
+10013,Asian,1
+10013,Australian,1
+10013,Bakery,1
+10013,CafÃ©/Coffee/Tea,1
+10013,Californian,1
+10013,Chinese,1
+10013,Chinese/Japanese,1
+10013,Continental,1
+10013,Delicatessen,1
+10013,Donuts,1
+10013,Eastern European,1
+10013,French,1
+10013,German,1
+10013,Greek,1
+10013,Hamburgers,1
+10013,Hawaiian,1
+10013,"Ice Cream, Gelato, Yogurt, Ices",1
+10013,Indian,1
+10013,Indonesian,1
+10013,Italian,1
+10013,Japanese,1
+10013,"Juice, Smoothies, Fruit Salads",1
+10013,Korean,1
+10013,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10013,Mediterranean,1
+10013,Mexican,1
+10013,Middle Eastern,1
+10013,Other,1
+10013,Pizza,1
+10013,Pizza/Italian,1
+10013,Salads,1
+10013,Sandwiches,1
+10013,Sandwiches/Salads/Mixed Buffet,1
+10013,Seafood,1
+10013,Soups & Sandwiches,1
+10013,Steak,1
+10013,Tapas,1
+10013,Thai,1
+10013,Turkish,1
+10013,Vegetarian,1
+10013,Vietnamese/Cambodian/Malaysia,1
+10014,American,1
+10014,Armenian,1
+10014,Asian,1
+10014,Australian,1
+10014,Bagels/Pretzels,1
+10014,Bakery,1
+10014,"Bottled beverages, including water, sodas, juices, etc.",1
+10014,Brazilian,1
+10014,CafÃ©/Coffee/Tea,1
+10014,Californian,1
+10014,Chinese,1
+10014,Continental,1
+10014,Delicatessen,1
+10014,Donuts,1
+10014,Egyptian,1
+10014,English,1
+10014,Ethiopian,1
+10014,Filipino,1
+10014,French,1
+10014,German,1
+10014,Greek,1
+10014,Hamburgers,1
+10014,Hawaiian,1
+10014,Hotdogs,1
+10014,"Ice Cream, Gelato, Yogurt, Ices",1
+10014,Indian,1
+10014,Irish,1
+10014,Italian,1
+10014,Japanese,1
+10014,"Juice, Smoothies, Fruit Salads",1
+10014,Korean,1
+10014,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10014,Mediterranean,1
+10014,Mexican,1
+10014,Middle Eastern,1
+10014,Nuts/Confectionary,1
+10014,Other,1
+10014,Peruvian,1
+10014,Pizza,1
+10014,Pizza/Italian,1
+10014,Russian,1
+10014,Salads,1
+10014,Sandwiches,1
+10014,Seafood,1
+10014,Soups & Sandwiches,1
+10014,Spanish,1
+10014,Tex-Mex,1
+10014,Thai,1
+10014,Turkish,1
+10014,Vegetarian,1
+10016,American,1
+10016,Armenian,1
+10016,Asian,1
+10016,Bagels/Pretzels,1
+10016,Bakery,1
+10016,Bangladeshi,1
+10016,Barbecue,1
+10016,"Bottled beverages, including water, sodas, juices, etc.",1
+10016,CafÃ©/Coffee/Tea,1
+10016,Chicken,1
+10016,Chinese,1
+10016,Chinese/Japanese,1
+10016,Delicatessen,1
+10016,Donuts,1
+10016,Eastern European,1
+10016,English,1
+10016,French,1
+10016,Greek,1
+10016,Hamburgers,1
+10016,Hawaiian,1
+10016,"Ice Cream, Gelato, Yogurt, Ices",1
+10016,Indian,1
+10016,Iranian,1
+10016,Irish,1
+10016,Italian,1
+10016,Japanese,1
+10016,Jewish/Kosher,1
+10016,"Juice, Smoothies, Fruit Salads",1
+10016,Korean,1
+10016,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10016,Mediterranean,1
+10016,Mexican,1
+10016,Middle Eastern,1
+10016,Not Listed/Not Applicable,1
+10016,Other,1
+10016,Peruvian,1
+10016,Pizza,1
+10016,Pizza/Italian,1
+10016,Salads,1
+10016,Sandwiches,1
+10016,Sandwiches/Salads/Mixed Buffet,1
+10016,Scandinavian,1
+10016,Seafood,1
+10016,Soups & Sandwiches,1
+10016,Spanish,1
+10016,Steak,1
+10016,Tex-Mex,1
+10016,Thai,1
+10016,Turkish,1
+10017,American,1
+10017,Asian,1
+10017,Bagels/Pretzels,1
+10017,Bakery,1
+10017,Basque,1
+10017,CafÃ©/Coffee/Tea,1
+10017,Caribbean,1
+10017,Chicken,1
+10017,Chinese,1
+10017,Continental,1
+10017,Delicatessen,1
+10017,Donuts,1
+10017,French,1
+10017,German,1
+10017,Greek,1
+10017,Hamburgers,1
+10017,Hotdogs,1
+10017,"Ice Cream, Gelato, Yogurt, Ices",1
+10017,Indian,1
+10017,Irish,1
+10017,Italian,1
+10017,Japanese,1
+10017,Jewish/Kosher,1
+10017,"Juice, Smoothies, Fruit Salads",1
+10017,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10017,Mediterranean,1
+10017,Mexican,1
+10017,Other,1
+10017,Pizza,1
+10017,Pizza/Italian,1
+10017,Salads,1
+10017,Sandwiches,1
+10017,Sandwiches/Salads/Mixed Buffet,1
+10017,Seafood,1
+10017,Soups & Sandwiches,1
+10017,Spanish,1
+10017,Steak,1
+10017,Thai,1
+10017,Turkish,1
+10017,Vegetarian,1
+10017,Vietnamese/Cambodian/Malaysia,1
+10018,American,1
+10018,Asian,1
+10018,Australian,1
+10018,Bakery,1
+10018,Bangladeshi,1
+10018,CafÃ©/Coffee/Tea,1
+10018,Chicken,1
+10018,Chinese,1
+10018,Chinese/Cuban,1
+10018,Continental,1
+10018,Delicatessen,1
+10018,Donuts,1
+10018,Filipino,1
+10018,French,1
+10018,Fruits/Vegetables,1
+10018,German,1
+10018,Greek,1
+10018,Hamburgers,1
+10018,Hawaiian,1
+10018,Hotdogs,1
+10018,Indian,1
+10018,Irish,1
+10018,Italian,1
+10018,Japanese,1
+10018,Jewish/Kosher,1
+10018,"Juice, Smoothies, Fruit Salads",1
+10018,Korean,1
+10018,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10018,Mediterranean,1
+10018,Mexican,1
+10018,Middle Eastern,1
+10018,Moroccan,1
+10018,Other,1
+10018,Pizza,1
+10018,Pizza/Italian,1
+10018,Salads,1
+10018,Sandwiches,1
+10018,Sandwiches/Salads/Mixed Buffet,1
+10018,Seafood,1
+10018,Soups & Sandwiches,1
+10018,Southwestern,1
+10018,Steak,1
+10018,Tex-Mex,1
+10018,Thai,1
+10018,Turkish,1
+10018,Vegetarian,1
+10018,Vietnamese/Cambodian/Malaysia,1
+10019,Afghan,1
+10019,African,1
+10019,American,1
+10019,Armenian,1
+10019,Asian,1
+10019,Bagels/Pretzels,1
+10019,Bakery,1
+10019,"Bottled beverages, including water, sodas, juices, etc.",1
+10019,Brazilian,1
+10019,CafÃ©/Coffee/Tea,1
+10019,Caribbean,1
+10019,Chicken,1
+10019,Chinese,1
+10019,Chinese/Japanese,1
+10019,Continental,1
+10019,Delicatessen,1
+10019,Donuts,1
+10019,English,1
+10019,French,1
+10019,Greek,1
+10019,Hamburgers,1
+10019,Hawaiian,1
+10019,Hotdogs,1
+10019,"Ice Cream, Gelato, Yogurt, Ices",1
+10019,Indian,1
+10019,Irish,1
+10019,Italian,1
+10019,Japanese,1
+10019,Jewish/Kosher,1
+10019,"Juice, Smoothies, Fruit Salads",1
+10019,Korean,1
+10019,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10019,Mediterranean,1
+10019,Mexican,1
+10019,Middle Eastern,1
+10019,Other,1
+10019,Peruvian,1
+10019,Pizza,1
+10019,Pizza/Italian,1
+10019,Russian,1
+10019,Salads,1
+10019,Sandwiches,1
+10019,Sandwiches/Salads/Mixed Buffet,1
+10019,Seafood,1
+10019,Soul Food,1
+10019,Soups,1
+10019,Soups & Sandwiches,1
+10019,Spanish,1
+10019,Steak,1
+10019,Tex-Mex,1
+10019,Thai,1
+10019,Turkish,1
+10019,Vegetarian,1
+10019,Vietnamese/Cambodian/Malaysia,1
+10020,American,1
+10020,Bakery,1
+10020,CafÃ©/Coffee/Tea,1
+10020,Continental,1
+10020,Delicatessen,1
+10020,French,1
+10020,"Ice Cream, Gelato, Yogurt, Ices",1
+10020,Japanese,1
+10020,Jewish/Kosher,1
+10020,Mexican,1
+10020,Sandwiches,1
+10020,Sandwiches/Salads/Mixed Buffet,1
+10020,Seafood,1
+10020,Steak,1
+10021,Afghan,1
+10021,American,1
+10021,Asian,1
+10021,Bagels/Pretzels,1
+10021,Barbecue,1
+10021,CafÃ©/Coffee/Tea,1
+10021,Chinese,1
+10021,Continental,1
+10021,Delicatessen,1
+10021,Donuts,1
+10021,English,1
+10021,French,1
+10021,Greek,1
+10021,Hamburgers,1
+10021,"Ice Cream, Gelato, Yogurt, Ices",1
+10021,Indian,1
+10021,Irish,1
+10021,Italian,1
+10021,Japanese,1
+10021,Jewish/Kosher,1
+10021,"Juice, Smoothies, Fruit Salads",1
+10021,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10021,Mediterranean,1
+10021,Mexican,1
+10021,Other,1
+10021,Pizza,1
+10021,Pizza/Italian,1
+10021,Salads,1
+10021,Sandwiches,1
+10021,Sandwiches/Salads/Mixed Buffet,1
+10021,Steak,1
+10021,Thai,1
+10021,Turkish,1
+10021,Vegetarian,1
+10022,American,1
+10022,Armenian,1
+10022,Asian,1
+10022,Australian,1
+10022,Bagels/Pretzels,1
+10022,Bakery,1
+10022,"Bottled beverages, including water, sodas, juices, etc.",1
+10022,CafÃ©/Coffee/Tea,1
+10022,Chinese,1
+10022,Chinese/Japanese,1
+10022,Continental,1
+10022,Delicatessen,1
+10022,Donuts,1
+10022,French,1
+10022,Greek,1
+10022,Hamburgers,1
+10022,Hawaiian,1
+10022,"Ice Cream, Gelato, Yogurt, Ices",1
+10022,Indian,1
+10022,Irish,1
+10022,Italian,1
+10022,Japanese,1
+10022,Jewish/Kosher,1
+10022,"Juice, Smoothies, Fruit Salads",1
+10022,Korean,1
+10022,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10022,Mediterranean,1
+10022,Mexican,1
+10022,Middle Eastern,1
+10022,Other,1
+10022,Pizza,1
+10022,Pizza/Italian,1
+10022,Salads,1
+10022,Sandwiches,1
+10022,Sandwiches/Salads/Mixed Buffet,1
+10022,Scandinavian,1
+10022,Seafood,1
+10022,Soups & Sandwiches,1
+10022,Spanish,1
+10022,Steak,1
+10022,Tex-Mex,1
+10022,Thai,1
+10022,Turkish,1
+10022,Vietnamese/Cambodian/Malaysia,1
+10023,American,1
+10023,Asian,1
+10023,Bagels/Pretzels,1
+10023,Bakery,1
+10023,CafÃ©/Coffee/Tea,1
+10023,Chinese,1
+10023,Chinese/Cuban,1
+10023,Chinese/Japanese,1
+10023,Donuts,1
+10023,French,1
+10023,Hamburgers,1
+10023,Hotdogs,1
+10023,"Ice Cream, Gelato, Yogurt, Ices",1
+10023,Indian,1
+10023,Irish,1
+10023,Italian,1
+10023,Japanese,1
+10023,Jewish/Kosher,1
+10023,"Juice, Smoothies, Fruit Salads",1
+10023,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10023,Mediterranean,1
+10023,Mexican,1
+10023,Middle Eastern,1
+10023,Other,1
+10023,Pizza,1
+10023,Pizza/Italian,1
+10023,Salads,1
+10023,Sandwiches,1
+10023,Sandwiches/Salads/Mixed Buffet,1
+10023,Seafood,1
+10023,Spanish,1
+10023,Steak,1
+10023,Tapas,1
+10023,Turkish,1
+10023,Vegetarian,1
+10024,American,1
+10024,Armenian,1
+10024,Asian,1
+10024,Australian,1
+10024,Bagels/Pretzels,1
+10024,Bakery,1
+10024,CafÃ©/Coffee/Tea,1
+10024,Chicken,1
+10024,Chinese,1
+10024,Chinese/Cuban,1
+10024,Chinese/Japanese,1
+10024,Delicatessen,1
+10024,Donuts,1
+10024,French,1
+10024,Greek,1
+10024,Hamburgers,1
+10024,"Ice Cream, Gelato, Yogurt, Ices",1
+10024,Indian,1
+10024,Irish,1
+10024,Italian,1
+10024,Japanese,1
+10024,Jewish/Kosher,1
+10024,"Juice, Smoothies, Fruit Salads",1
+10024,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10024,Mediterranean,1
+10024,Mexican,1
+10024,Other,1
+10024,Pizza,1
+10024,Pizza/Italian,1
+10024,Salads,1
+10024,Sandwiches,1
+10024,Sandwiches/Salads/Mixed Buffet,1
+10024,Seafood,1
+10024,Soups & Sandwiches,1
+10024,Tapas,1
+10024,Tex-Mex,1
+10024,Thai,1
+10024,Vegetarian,1
+10025,American,1
+10025,Armenian,1
+10025,Asian,1
+10025,Bagels/Pretzels,1
+10025,Bakery,1
+10025,"Bottled beverages, including water, sodas, juices, etc.",1
+10025,CafÃ©/Coffee/Tea,1
+10025,Caribbean,1
+10025,Chicken,1
+10025,Chinese,1
+10025,Chinese/Cuban,1
+10025,Delicatessen,1
+10025,Donuts,1
+10025,Eastern European,1
+10025,Ethiopian,1
+10025,French,1
+10025,Greek,1
+10025,Hamburgers,1
+10025,"Ice Cream, Gelato, Yogurt, Ices",1
+10025,Indian,1
+10025,Irish,1
+10025,Italian,1
+10025,Japanese,1
+10025,Jewish/Kosher,1
+10025,"Juice, Smoothies, Fruit Salads",1
+10025,Korean,1
+10025,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10025,Mediterranean,1
+10025,Mexican,1
+10025,Middle Eastern,1
+10025,Other,1
+10025,Pakistani,1
+10025,Peruvian,1
+10025,Pizza,1
+10025,Pizza/Italian,1
+10025,Salads,1
+10025,Sandwiches,1
+10025,Sandwiches/Salads/Mixed Buffet,1
+10025,Soul Food,1
+10025,Soups & Sandwiches,1
+10025,Spanish,1
+10025,Steak,1
+10025,Tex-Mex,1
+10025,Thai,1
+10025,Turkish,1
+10025,Vegetarian,1
+10025,Vietnamese/Cambodian/Malaysia,1
+10026,African,1
+10026,American,1
+10026,Bagels/Pretzels,1
+10026,Bakery,1
+10026,CafÃ©/Coffee/Tea,1
+10026,Caribbean,1
+10026,Chicken,1
+10026,Chinese,1
+10026,Donuts,1
+10026,Ethiopian,1
+10026,French,1
+10026,Fruits/Vegetables,1
+10026,Hamburgers,1
+10026,"Ice Cream, Gelato, Yogurt, Ices",1
+10026,Indian,1
+10026,Italian,1
+10026,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10026,Mediterranean,1
+10026,Mexican,1
+10026,Middle Eastern,1
+10026,Pizza,1
+10026,Sandwiches,1
+10026,Sandwiches/Salads/Mixed Buffet,1
+10026,Seafood,1
+10026,Soul Food,1
+10026,Spanish,1
+10026,Thai,1
+10026,Vegetarian,1
+10027,African,1
+10027,American,1
+10027,Asian,1
+10027,Bakery,1
+10027,Barbecue,1
+10027,CafÃ©/Coffee/Tea,1
+10027,Caribbean,1
+10027,Chicken,1
+10027,Chinese,1
+10027,Delicatessen,1
+10027,Donuts,1
+10027,Egyptian,1
+10027,Ethiopian,1
+10027,French,1
+10027,German,1
+10027,Hamburgers,1
+10027,"Ice Cream, Gelato, Yogurt, Ices",1
+10027,Indian,1
+10027,Italian,1
+10027,Japanese,1
+10027,"Juice, Smoothies, Fruit Salads",1
+10027,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10027,Mediterranean,1
+10027,Mexican,1
+10027,Middle Eastern,1
+10027,Pizza,1
+10027,Pizza/Italian,1
+10027,Sandwiches,1
+10027,Sandwiches/Salads/Mixed Buffet,1
+10027,Seafood,1
+10027,Soul Food,1
+10027,Spanish,1
+10027,Steak,1
+10027,Tex-Mex,1
+10027,Vegetarian,1
+10028,American,1
+10028,Asian,1
+10028,Bagels/Pretzels,1
+10028,Bakery,1
+10028,"Bottled beverages, including water, sodas, juices, etc.",1
+10028,CafÃ©/Coffee/Tea,1
+10028,Chicken,1
+10028,Chinese,1
+10028,Chinese/Japanese,1
+10028,Continental,1
+10028,Delicatessen,1
+10028,Donuts,1
+10028,Eastern European,1
+10028,French,1
+10028,German,1
+10028,Greek,1
+10028,Hamburgers,1
+10028,Hotdogs,1
+10028,"Ice Cream, Gelato, Yogurt, Ices",1
+10028,Indian,1
+10028,Irish,1
+10028,Italian,1
+10028,Japanese,1
+10028,Jewish/Kosher,1
+10028,"Juice, Smoothies, Fruit Salads",1
+10028,Korean,1
+10028,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10028,Mediterranean,1
+10028,Mexican,1
+10028,Pizza,1
+10028,Pizza/Italian,1
+10028,Salads,1
+10028,Sandwiches,1
+10028,Seafood,1
+10028,Spanish,1
+10028,Tex-Mex,1
+10028,Thai,1
+10028,Turkish,1
+10029,African,1
+10029,American,1
+10029,Armenian,1
+10029,Asian,1
+10029,Bakery,1
+10029,Bangladeshi,1
+10029,CafÃ©/Coffee/Tea,1
+10029,Caribbean,1
+10029,Chicken,1
+10029,Chinese,1
+10029,Chinese/Japanese,1
+10029,Delicatessen,1
+10029,Donuts,1
+10029,French,1
+10029,Greek,1
+10029,Hamburgers,1
+10029,Hawaiian,1
+10029,Indian,1
+10029,Italian,1
+10029,Japanese,1
+10029,Jewish/Kosher,1
+10029,"Juice, Smoothies, Fruit Salads",1
+10029,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10029,Mediterranean,1
+10029,Mexican,1
+10029,Moroccan,1
+10029,Other,1
+10029,Pakistani,1
+10029,Peruvian,1
+10029,Pizza,1
+10029,Polynesian,1
+10029,Sandwiches,1
+10029,Sandwiches/Salads/Mixed Buffet,1
+10029,Seafood,1
+10029,Spanish,1
+10029,Steak,1
+10029,Tex-Mex,1
+10029,Thai,1
+10029,Vegetarian,1
+10030,African,1
+10030,American,1
+10030,Bagels/Pretzels,1
+10030,Bakery,1
+10030,CafÃ©/Coffee/Tea,1
+10030,Caribbean,1
+10030,Chicken,1
+10030,Chinese,1
+10030,Donuts,1
+10030,Ethiopian,1
+10030,French,1
+10030,Hamburgers,1
+10030,"Juice, Smoothies, Fruit Salads",1
+10030,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10030,Middle Eastern,1
+10030,Pancakes/Waffles,1
+10030,Pizza,1
+10030,Sandwiches,1
+10030,Seafood,1
+10030,Soul Food,1
+10031,American,1
+10031,Asian,1
+10031,Bakery,1
+10031,CafÃ©/Coffee/Tea,1
+10031,Caribbean,1
+10031,Chicken,1
+10031,Chilean,1
+10031,Chinese,1
+10031,Donuts,1
+10031,Ethiopian,1
+10031,Hamburgers,1
+10031,Indian,1
+10031,Italian,1
+10031,Japanese,1
+10031,"Juice, Smoothies, Fruit Salads",1
+10031,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10031,Mexican,1
+10031,Middle Eastern,1
+10031,Pizza,1
+10031,Pizza/Italian,1
+10031,Sandwiches,1
+10031,Sandwiches/Salads/Mixed Buffet,1
+10031,Seafood,1
+10031,Spanish,1
+10031,Tex-Mex,1
+10032,American,1
+10032,Bagels/Pretzels,1
+10032,Bakery,1
+10032,Barbecue,1
+10032,CafÃ©/Coffee/Tea,1
+10032,Chicken,1
+10032,Chinese,1
+10032,Chinese/Cuban,1
+10032,Delicatessen,1
+10032,Donuts,1
+10032,Hamburgers,1
+10032,Italian,1
+10032,Korean,1
+10032,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10032,Mexican,1
+10032,Pizza,1
+10032,Pizza/Italian,1
+10032,Sandwiches/Salads/Mixed Buffet,1
+10032,Seafood,1
+10032,Spanish,1
+10032,Tex-Mex,1
+10032,Thai,1
+10033,American,1
+10033,Bakery,1
+10033,CafÃ©/Coffee/Tea,1
+10033,Chicken,1
+10033,Chinese,1
+10033,Chinese/Cuban,1
+10033,Delicatessen,1
+10033,Donuts,1
+10033,French,1
+10033,Hamburgers,1
+10033,"Ice Cream, Gelato, Yogurt, Ices",1
+10033,Irish,1
+10033,Italian,1
+10033,Japanese,1
+10033,Jewish/Kosher,1
+10033,"Juice, Smoothies, Fruit Salads",1
+10033,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10033,Mediterranean,1
+10033,Mexican,1
+10033,Pizza,1
+10033,Pizza/Italian,1
+10033,Sandwiches,1
+10033,Sandwiches/Salads/Mixed Buffet,1
+10033,Seafood,1
+10033,Spanish,1
+10033,Tapas,1
+10033,Tex-Mex,1
+10033,Thai,1
+10033,Vegetarian,1
+10034,American,1
+10034,Armenian,1
+10034,Bakery,1
+10034,"Bottled beverages, including water, sodas, juices, etc.",1
+10034,CafÃ©/Coffee/Tea,1
+10034,Chicken,1
+10034,Chinese,1
+10034,Chinese/Cuban,1
+10034,Donuts,1
+10034,Eastern European,1
+10034,Greek,1
+10034,Hamburgers,1
+10034,Hotdogs,1
+10034,Irish,1
+10034,Italian,1
+10034,Japanese,1
+10034,"Juice, Smoothies, Fruit Salads",1
+10034,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10034,Mexican,1
+10034,Pizza,1
+10034,Pizza/Italian,1
+10034,Sandwiches,1
+10034,Seafood,1
+10034,Spanish,1
+10034,Tex-Mex,1
+10034,Thai,1
+10035,African,1
+10035,American,1
+10035,Bagels/Pretzels,1
+10035,Bakery,1
+10035,CafÃ©/Coffee/Tea,1
+10035,Caribbean,1
+10035,Chicken,1
+10035,Chinese,1
+10035,Delicatessen,1
+10035,Donuts,1
+10035,Hamburgers,1
+10035,"Ice Cream, Gelato, Yogurt, Ices",1
+10035,Indian,1
+10035,Italian,1
+10035,Japanese,1
+10035,"Juice, Smoothies, Fruit Salads",1
+10035,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10035,Mexican,1
+10035,Pancakes/Waffles,1
+10035,Pizza,1
+10035,Pizza/Italian,1
+10035,Salads,1
+10035,Sandwiches,1
+10035,Soul Food,1
+10035,Spanish,1
+10035,Tapas,1
+10035,Thai,1
+10036,American,1
+10036,Armenian,1
+10036,Asian,1
+10036,Bakery,1
+10036,Barbecue,1
+10036,Basque,1
+10036,"Bottled beverages, including water, sodas, juices, etc.",1
+10036,Brazilian,1
+10036,CafÃ©/Coffee/Tea,1
+10036,Chicken,1
+10036,Chinese,1
+10036,Continental,1
+10036,Delicatessen,1
+10036,Donuts,1
+10036,Egyptian,1
+10036,English,1
+10036,Ethiopian,1
+10036,French,1
+10036,Greek,1
+10036,Hamburgers,1
+10036,Hotdogs,1
+10036,Hotdogs/Pretzels,1
+10036,"Ice Cream, Gelato, Yogurt, Ices",1
+10036,Indian,1
+10036,Irish,1
+10036,Italian,1
+10036,Japanese,1
+10036,Jewish/Kosher,1
+10036,"Juice, Smoothies, Fruit Salads",1
+10036,Korean,1
+10036,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10036,Mediterranean,1
+10036,Mexican,1
+10036,Middle Eastern,1
+10036,Moroccan,1
+10036,Other,1
+10036,Peruvian,1
+10036,Pizza,1
+10036,Pizza/Italian,1
+10036,Sandwiches,1
+10036,Sandwiches/Salads/Mixed Buffet,1
+10036,Seafood,1
+10036,Soups & Sandwiches,1
+10036,Southwestern,1
+10036,Spanish,1
+10036,Steak,1
+10036,Tex-Mex,1
+10036,Thai,1
+10036,Turkish,1
+10036,Vietnamese/Cambodian/Malaysia,1
+10037,African,1
+10037,American,1
+10037,Bakery,1
+10037,Barbecue,1
+10037,Caribbean,1
+10037,Chicken,1
+10037,Chinese,1
+10037,Donuts,1
+10037,French,1
+10037,"Juice, Smoothies, Fruit Salads",1
+10037,Pizza/Italian,1
+10037,Sandwiches,1
+10037,Seafood,1
+10037,Soul Food,1
+10037,Spanish,1
+10038,American,1
+10038,Asian,1
+10038,Australian,1
+10038,Bagels/Pretzels,1
+10038,Bakery,1
+10038,"Bottled beverages, including water, sodas, juices, etc.",1
+10038,CafÃ©/Coffee/Tea,1
+10038,Chicken,1
+10038,Chinese,1
+10038,Chinese/Japanese,1
+10038,Continental,1
+10038,Delicatessen,1
+10038,Donuts,1
+10038,French,1
+10038,Greek,1
+10038,Hamburgers,1
+10038,Hawaiian,1
+10038,Indian,1
+10038,Irish,1
+10038,Italian,1
+10038,Japanese,1
+10038,Jewish/Kosher,1
+10038,"Juice, Smoothies, Fruit Salads",1
+10038,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10038,Mediterranean,1
+10038,Mexican,1
+10038,Other,1
+10038,Pizza,1
+10038,Pizza/Italian,1
+10038,Russian,1
+10038,Salads,1
+10038,Sandwiches,1
+10038,Sandwiches/Salads/Mixed Buffet,1
+10038,Seafood,1
+10038,Spanish,1
+10038,Steak,1
+10038,Thai,1
+10038,Vegetarian,1
+10039,American,1
+10039,CafÃ©/Coffee/Tea,1
+10039,Caribbean,1
+10039,Chicken,1
+10039,Chinese,1
+10039,Donuts,1
+10039,Ethiopian,1
+10039,Hamburgers,1
+10039,Indian,1
+10039,"Juice, Smoothies, Fruit Salads",1
+10039,Other,1
+10039,Pizza,1
+10039,Pizza/Italian,1
+10039,Sandwiches,1
+10039,Seafood,1
+10039,Soups & Sandwiches,1
+10039,Tapas,1
+10040,American,1
+10040,Bakery,1
+10040,"Bottled beverages, including water, sodas, juices, etc.",1
+10040,CafÃ©/Coffee/Tea,1
+10040,Chicken,1
+10040,Chinese,1
+10040,Chinese/Cuban,1
+10040,Donuts,1
+10040,Indian,1
+10040,"Juice, Smoothies, Fruit Salads",1
+10040,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10040,Mexican,1
+10040,Pizza,1
+10040,Sandwiches,1
+10040,Seafood,1
+10040,Spanish,1
+10040,Tapas,1
+10040,Tex-Mex,1
+10044,American,1
+10044,CafÃ©/Coffee/Tea,1
+10044,Chinese,1
+10044,Japanese,1
+10044,Pizza/Italian,1
+10044,Sandwiches,1
+10048,American,1
+10055,American,1
+10057,American,1
+10065,American,1
+10065,Asian,1
+10065,Bagels/Pretzels,1
+10065,Bakery,1
+10065,Barbecue,1
+10065,CafÃ©/Coffee/Tea,1
+10065,Chicken,1
+10065,Chinese,1
+10065,Delicatessen,1
+10065,Donuts,1
+10065,French,1
+10065,Greek,1
+10065,Hamburgers,1
+10065,"Ice Cream, Gelato, Yogurt, Ices",1
+10065,Indian,1
+10065,Italian,1
+10065,Japanese,1
+10065,Jewish/Kosher,1
+10065,"Juice, Smoothies, Fruit Salads",1
+10065,Korean,1
+10065,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10065,Mediterranean,1
+10065,Mexican,1
+10065,Moroccan,1
+10065,Other,1
+10065,Pizza,1
+10065,Pizza/Italian,1
+10065,Salads,1
+10065,Sandwiches,1
+10065,Seafood,1
+10065,Soups & Sandwiches,1
+10065,Steak,1
+10065,Tapas,1
+10065,Tex-Mex,1
+10065,Thai,1
+10065,Vegetarian,1
+10069,American,1
+10069,Japanese,1
+10075,American,1
+10075,Asian,1
+10075,Bagels/Pretzels,1
+10075,Bakery,1
+10075,Barbecue,1
+10075,CafÃ©/Coffee/Tea,1
+10075,Chinese,1
+10075,Chinese/Japanese,1
+10075,Delicatessen,1
+10075,Donuts,1
+10075,French,1
+10075,Greek,1
+10075,"Ice Cream, Gelato, Yogurt, Ices",1
+10075,Italian,1
+10075,Japanese,1
+10075,Jewish/Kosher,1
+10075,"Juice, Smoothies, Fruit Salads",1
+10075,Mediterranean,1
+10075,Mexican,1
+10075,Middle Eastern,1
+10075,Pizza,1
+10075,Pizza/Italian,1
+10075,Salads,1
+10075,Sandwiches,1
+10075,Seafood,1
+10075,Tapas,1
+10075,Tex-Mex,1
+10075,Thai,1
+10075,Vegetarian,1
+10103,CafÃ©/Coffee/Tea,1
+10103,Sandwiches,1
+10104,American,1
+10104,CafÃ©/Coffee/Tea,1
+10104,Italian,1
+10104,Mexican,1
+10105,American,1
+10105,CafÃ©/Coffee/Tea,1
+10106,American,1
+10106,Italian,1
+10107,CafÃ©/Coffee/Tea,1
+10110,"Juice, Smoothies, Fruit Salads",1
+10111,American,1
+10111,French,1
+10111,Mediterranean,1
+10112,American,1
+10112,Bakery,1
+10112,CafÃ©/Coffee/Tea,1
+10112,Delicatessen,1
+10112,Donuts,1
+10112,Italian,1
+10112,Mediterranean,1
+10112,Sandwiches,1
+10112,Sandwiches/Salads/Mixed Buffet,1
+10112,Soups & Sandwiches,1
+10112,Southwestern,1
+10118,American,1
+10118,CafÃ©/Coffee/Tea,1
+10118,Japanese,1
+10118,Mexican,1
+10118,Salads,1
+10119,American,1
+10119,Bakery,1
+10119,CafÃ©/Coffee/Tea,1
+10119,Italian,1
+10119,"Juice, Smoothies, Fruit Salads",1
+10119,Mexican,1
+10119,Not Listed/Not Applicable,1
+10119,Pizza,1
+10119,Sandwiches,1
+10119,Sandwiches/Salads/Mixed Buffet,1
+10121,American,1
+10121,Armenian,1
+10121,Bakery,1
+10121,Chicken,1
+10121,Chinese/Japanese,1
+10121,Donuts,1
+10121,Hamburgers,1
+10121,Hotdogs,1
+10121,Hotdogs/Pretzels,1
+10121,"Ice Cream, Gelato, Yogurt, Ices",1
+10121,Other,1
+10121,Pizza,1
+10121,Sandwiches,1
+10121,Seafood,1
+10121,Soups & Sandwiches,1
+10121,Tex-Mex,1
+10121,Vegetarian,1
+10123,Delicatessen,1
+10128,African,1
+10128,American,1
+10128,Asian,1
+10128,Bagels/Pretzels,1
+10128,Bakery,1
+10128,Brazilian,1
+10128,CafÃ©/Coffee/Tea,1
+10128,Chinese,1
+10128,Chinese/Japanese,1
+10128,Continental,1
+10128,Delicatessen,1
+10128,Donuts,1
+10128,French,1
+10128,Greek,1
+10128,Hamburgers,1
+10128,Indian,1
+10128,Irish,1
+10128,Italian,1
+10128,Japanese,1
+10128,Jewish/Kosher,1
+10128,"Juice, Smoothies, Fruit Salads",1
+10128,Korean,1
+10128,Mediterranean,1
+10128,Mexican,1
+10128,Peruvian,1
+10128,Pizza,1
+10128,Pizza/Italian,1
+10128,Sandwiches,1
+10128,Sandwiches/Salads/Mixed Buffet,1
+10128,Seafood,1
+10128,Spanish,1
+10128,Steak,1
+10128,Tex-Mex,1
+10128,Thai,1
+10128,Vietnamese/Cambodian/Malaysia,1
+10152,American,1
+10153,American,1
+10154,CafÃ©/Coffee/Tea,1
+10154,French,1
+10155,American,1
+10155,CafÃ©/Coffee/Tea,1
+10165,American,1
+10166,CafÃ©/Coffee/Tea,1
+10166,Continental,1
+10166,Other,1
+10166,Spanish,1
+10167,American,1
+10168,American,1
+10168,CafÃ©/Coffee/Tea,1
+10168,Donuts,1
+10168,Sandwiches,1
+10169,American,1
+10169,Asian,1
+10169,Bakery,1
+10169,CafÃ©/Coffee/Tea,1
+10169,Chicken,1
+10169,Chinese,1
+10169,Donuts,1
+10169,German,1
+10169,Greek,1
+10169,Hamburgers,1
+10169,Japanese,1
+10169,"Juice, Smoothies, Fruit Salads",1
+10169,Mexican,1
+10169,Middle Eastern,1
+10169,Pizza,1
+10169,Salads,1
+10169,Sandwiches,1
+10169,Seafood,1
+10169,Soups,1
+10169,Thai,1
+10169,Vegetarian,1
+10170,"Juice, Smoothies, Fruit Salads",1
+10171,American,1
+10172,"Juice, Smoothies, Fruit Salads",1
+10173,CafÃ©/Coffee/Tea,1
+10174,American,1
+10174,Sandwiches/Salads/Mixed Buffet,1
+10175,Pizza,1
+10176,American,1
+10176,Caribbean,1
+10178,American,1
+10178,Continental,1
+10179,American,1
+10199,American,1
+10270,CafÃ©/Coffee/Tea,1
+10271,American,1
+10279,Salads,1
+10280,American,1
+10280,Chinese,1
+10280,Jewish/Kosher,1
+10280,Mediterranean,1
+10280,Mexican,1
+10280,Pizza/Italian,1
+10280,Soups & Sandwiches,1
+10281,American,1
+10281,Bagels/Pretzels,1
+10281,Bakery,1
+10281,Barbecue,1
+10281,CafÃ©/Coffee/Tea,1
+10281,Chinese,1
+10281,French,1
+10281,Hamburgers,1
+10281,Italian,1
+10281,Japanese,1
+10281,Mexican,1
+10281,Pizza/Italian,1
+10281,Salads,1
+10281,Sandwiches,1
+10281,Sandwiches/Salads/Mixed Buffet,1
+10281,Tapas,1
+10282,American,1
+10282,Asian,1
+10282,Barbecue,1
+10282,CafÃ©/Coffee/Tea,1
+10282,French,1
+10282,Italian,1
+10282,Mexican,1
+10282,Seafood,1
+10285,American,1
+10301,American,1
+10301,Bagels/Pretzels,1
+10301,Bakery,1
+10301,Barbecue,1
+10301,"Bottled beverages, including water, sodas, juices, etc.",1
+10301,CafÃ©/Coffee/Tea,1
+10301,Caribbean,1
+10301,Chicken,1
+10301,Chinese,1
+10301,Delicatessen,1
+10301,Donuts,1
+10301,Hotdogs/Pretzels,1
+10301,"Ice Cream, Gelato, Yogurt, Ices",1
+10301,Indian,1
+10301,Italian,1
+10301,Japanese,1
+10301,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10301,Mediterranean,1
+10301,Mexican,1
+10301,Pizza,1
+10301,Pizza/Italian,1
+10301,Salads,1
+10301,Sandwiches,1
+10301,Sandwiches/Salads/Mixed Buffet,1
+10301,Soul Food,1
+10301,Spanish,1
+10301,Thai,1
+10302,American,1
+10302,Asian,1
+10302,Bakery,1
+10302,"Bottled beverages, including water, sodas, juices, etc.",1
+10302,CafÃ©/Coffee/Tea,1
+10302,Caribbean,1
+10302,Chicken,1
+10302,Chinese,1
+10302,Donuts,1
+10302,Hamburgers,1
+10302,Hotdogs,1
+10302,Irish,1
+10302,Japanese,1
+10302,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10302,Mediterranean,1
+10302,Mexican,1
+10302,Other,1
+10302,Pizza,1
+10302,Pizza/Italian,1
+10302,Sandwiches,1
+10302,Sandwiches/Salads/Mixed Buffet,1
+10302,Seafood,1
+10302,Spanish,1
+10303,American,1
+10303,Chicken,1
+10303,Chinese,1
+10303,Donuts,1
+10303,Hamburgers,1
+10303,"Ice Cream, Gelato, Yogurt, Ices",1
+10303,Indian,1
+10303,Italian,1
+10303,Japanese,1
+10303,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10303,Mexican,1
+10303,Pizza,1
+10303,Pizza/Italian,1
+10303,Polish,1
+10303,Sandwiches,1
+10303,Soul Food,1
+10303,Spanish,1
+10304,African,1
+10304,American,1
+10304,Bakery,1
+10304,CafÃ©/Coffee/Tea,1
+10304,Chicken,1
+10304,Chinese,1
+10304,Donuts,1
+10304,Hamburgers,1
+10304,"Ice Cream, Gelato, Yogurt, Ices",1
+10304,Indian,1
+10304,Japanese,1
+10304,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10304,Mediterranean,1
+10304,Mexican,1
+10304,Peruvian,1
+10304,Pizza,1
+10304,Pizza/Italian,1
+10304,Polish,1
+10304,Sandwiches,1
+10304,Spanish,1
+10305,American,1
+10305,Bagels/Pretzels,1
+10305,Bakery,1
+10305,CafÃ©/Coffee/Tea,1
+10305,Cajun,1
+10305,Chinese,1
+10305,Donuts,1
+10305,Eastern European,1
+10305,Filipino,1
+10305,Greek,1
+10305,Hamburgers,1
+10305,"Ice Cream, Gelato, Yogurt, Ices",1
+10305,Indian,1
+10305,Italian,1
+10305,Japanese,1
+10305,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10305,Mediterranean,1
+10305,Mexican,1
+10305,Pizza,1
+10305,Pizza/Italian,1
+10305,Polish,1
+10305,Russian,1
+10305,Sandwiches,1
+10305,Seafood,1
+10305,Tex-Mex,1
+10305,Turkish,1
+10306,American,1
+10306,Armenian,1
+10306,Asian,1
+10306,Bagels/Pretzels,1
+10306,Bakery,1
+10306,CafÃ©/Coffee/Tea,1
+10306,Chicken,1
+10306,Chinese,1
+10306,Chinese/Japanese,1
+10306,Delicatessen,1
+10306,Donuts,1
+10306,Eastern European,1
+10306,Greek,1
+10306,Hamburgers,1
+10306,"Ice Cream, Gelato, Yogurt, Ices",1
+10306,Indian,1
+10306,Italian,1
+10306,Japanese,1
+10306,Mexican,1
+10306,Peruvian,1
+10306,Pizza,1
+10306,Pizza/Italian,1
+10306,Sandwiches,1
+10306,Southwestern,1
+10306,Spanish,1
+10306,Tex-Mex,1
+10306,Turkish,1
+10306,Vietnamese/Cambodian/Malaysia,1
+10307,American,1
+10307,Armenian,1
+10307,"Bottled beverages, including water, sodas, juices, etc.",1
+10307,CafÃ©/Coffee/Tea,1
+10307,Chinese,1
+10307,Hamburgers,1
+10307,Italian,1
+10307,Japanese,1
+10307,Mexican,1
+10307,Pizza,1
+10307,Pizza/Italian,1
+10307,Sandwiches,1
+10307,Spanish,1
+10308,American,1
+10308,Asian,1
+10308,Bakery,1
+10308,"Bottled beverages, including water, sodas, juices, etc.",1
+10308,Chicken,1
+10308,Chinese,1
+10308,Delicatessen,1
+10308,Donuts,1
+10308,"Ice Cream, Gelato, Yogurt, Ices",1
+10308,Italian,1
+10308,Japanese,1
+10308,Pizza,1
+10308,Pizza/Italian,1
+10308,Russian,1
+10308,Sandwiches,1
+10308,Seafood,1
+10308,Spanish,1
+10309,American,1
+10309,Asian,1
+10309,Bagels/Pretzels,1
+10309,Bakery,1
+10309,CafÃ©/Coffee/Tea,1
+10309,Chicken,1
+10309,Chinese,1
+10309,Delicatessen,1
+10309,Donuts,1
+10309,German,1
+10309,Hamburgers,1
+10309,"Ice Cream, Gelato, Yogurt, Ices",1
+10309,Irish,1
+10309,Italian,1
+10309,Japanese,1
+10309,"Juice, Smoothies, Fruit Salads",1
+10309,Mexican,1
+10309,Other,1
+10309,Pizza,1
+10309,Pizza/Italian,1
+10309,Sandwiches/Salads/Mixed Buffet,1
+10309,Seafood,1
+10310,American,1
+10310,Bakery,1
+10310,CafÃ©/Coffee/Tea,1
+10310,Chicken,1
+10310,Chinese,1
+10310,Delicatessen,1
+10310,Donuts,1
+10310,German,1
+10310,Hamburgers,1
+10310,"Ice Cream, Gelato, Yogurt, Ices",1
+10310,Italian,1
+10310,Japanese,1
+10310,"Juice, Smoothies, Fruit Salads",1
+10310,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10310,Mediterranean,1
+10310,Mexican,1
+10310,Other,1
+10310,Peruvian,1
+10310,Pizza,1
+10310,Pizza/Italian,1
+10310,Portuguese,1
+10310,Sandwiches,1
+10310,Spanish,1
+10310,Tex-Mex,1
+10310,Thai,1
+10311,American,1
+10312,American,1
+10312,Asian,1
+10312,Bagels/Pretzels,1
+10312,Bakery,1
+10312,Chinese,1
+10312,Delicatessen,1
+10312,Donuts,1
+10312,Greek,1
+10312,Hamburgers,1
+10312,"Ice Cream, Gelato, Yogurt, Ices",1
+10312,Italian,1
+10312,Japanese,1
+10312,Middle Eastern,1
+10312,Other,1
+10312,Pizza,1
+10312,Pizza/Italian,1
+10312,Sandwiches,1
+10312,Sandwiches/Salads/Mixed Buffet,1
+10312,Southwestern,1
+10314,American,1
+10314,Asian,1
+10314,Bagels/Pretzels,1
+10314,Bakery,1
+10314,CafÃ©/Coffee/Tea,1
+10314,Cajun,1
+10314,Chicken,1
+10314,Chinese,1
+10314,Chinese/Japanese,1
+10314,Continental,1
+10314,Delicatessen,1
+10314,Donuts,1
+10314,Filipino,1
+10314,Fruits/Vegetables,1
+10314,Hamburgers,1
+10314,Hotdogs/Pretzels,1
+10314,"Ice Cream, Gelato, Yogurt, Ices",1
+10314,Italian,1
+10314,Japanese,1
+10314,Jewish/Kosher,1
+10314,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10314,Mexican,1
+10314,Middle Eastern,1
+10314,Other,1
+10314,Pancakes/Waffles,1
+10314,Pizza,1
+10314,Pizza/Italian,1
+10314,Sandwiches,1
+10314,Sandwiches/Salads/Mixed Buffet,1
+10314,Steak,1
+10314,Tex-Mex,1
+10314,Thai,1
+10314,Vietnamese/Cambodian/Malaysia,1
+10317,Middle Eastern,1
+10451,African,1
+10451,American,1
+10451,Bagels/Pretzels,1
+10451,Bakery,1
+10451,CafÃ©/Coffee/Tea,1
+10451,Caribbean,1
+10451,Chicken,1
+10451,Chinese,1
+10451,Delicatessen,1
+10451,Donuts,1
+10451,Hamburgers,1
+10451,"Ice Cream, Gelato, Yogurt, Ices",1
+10451,Italian,1
+10451,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10451,Mexican,1
+10451,Other,1
+10451,Pizza,1
+10451,Pizza/Italian,1
+10451,Sandwiches,1
+10451,Sandwiches/Salads/Mixed Buffet,1
+10451,Seafood,1
+10451,Soul Food,1
+10451,Spanish,1
+10451,Steak,1
+10452,American,1
+10452,Bakery,1
+10452,Chicken,1
+10452,Chinese,1
+10452,Delicatessen,1
+10452,Donuts,1
+10452,Hamburgers,1
+10452,"Juice, Smoothies, Fruit Salads",1
+10452,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10452,Mexican,1
+10452,Other,1
+10452,Pizza,1
+10452,Pizza/Italian,1
+10452,Sandwiches,1
+10452,Sandwiches/Salads/Mixed Buffet,1
+10452,Seafood,1
+10452,Soul Food,1
+10452,Spanish,1
+10453,African,1
+10453,American,1
+10453,Bakery,1
+10453,Caribbean,1
+10453,Chicken,1
+10453,Chinese,1
+10453,Delicatessen,1
+10453,Donuts,1
+10453,Hamburgers,1
+10453,"Ice Cream, Gelato, Yogurt, Ices",1
+10453,"Juice, Smoothies, Fruit Salads",1
+10453,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10453,Mexican,1
+10453,Pizza,1
+10453,Pizza/Italian,1
+10453,Sandwiches/Salads/Mixed Buffet,1
+10453,Seafood,1
+10453,Spanish,1
+10453,Tex-Mex,1
+10454,American,1
+10454,Bakery,1
+10454,CafÃ©/Coffee/Tea,1
+10454,Chicken,1
+10454,Chinese,1
+10454,Donuts,1
+10454,Hamburgers,1
+10454,Japanese,1
+10454,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10454,Mexican,1
+10454,Peruvian,1
+10454,Pizza,1
+10454,Pizza/Italian,1
+10454,Spanish,1
+10454,Steak,1
+10454,Tex-Mex,1
+10455,American,1
+10455,Bakery,1
+10455,Caribbean,1
+10455,Chicken,1
+10455,Chinese,1
+10455,Delicatessen,1
+10455,Donuts,1
+10455,Hamburgers,1
+10455,Italian,1
+10455,"Juice, Smoothies, Fruit Salads",1
+10455,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10455,Mexican,1
+10455,Other,1
+10455,Peruvian,1
+10455,Pizza,1
+10455,Pizza/Italian,1
+10455,Sandwiches,1
+10455,Seafood,1
+10455,Soul Food,1
+10455,Spanish,1
+10456,African,1
+10456,American,1
+10456,Bakery,1
+10456,CafÃ©/Coffee/Tea,1
+10456,Caribbean,1
+10456,Chicken,1
+10456,Chinese,1
+10456,Donuts,1
+10456,Hamburgers,1
+10456,Indian,1
+10456,"Juice, Smoothies, Fruit Salads",1
+10456,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10456,Mexican,1
+10456,Pizza,1
+10456,Pizza/Italian,1
+10456,Seafood,1
+10456,Soul Food,1
+10456,Spanish,1
+10457,African,1
+10457,American,1
+10457,Bakery,1
+10457,CafÃ©/Coffee/Tea,1
+10457,Chicken,1
+10457,Chinese,1
+10457,Donuts,1
+10457,Fruits/Vegetables,1
+10457,Hamburgers,1
+10457,"Juice, Smoothies, Fruit Salads",1
+10457,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10457,Mexican,1
+10457,Other,1
+10457,Pizza,1
+10457,Sandwiches,1
+10457,Spanish,1
+10458,African,1
+10458,American,1
+10458,Bakery,1
+10458,"Bottled beverages, including water, sodas, juices, etc.",1
+10458,CafÃ©/Coffee/Tea,1
+10458,Caribbean,1
+10458,Chicken,1
+10458,Chinese,1
+10458,Delicatessen,1
+10458,Donuts,1
+10458,Eastern European,1
+10458,Hamburgers,1
+10458,"Ice Cream, Gelato, Yogurt, Ices",1
+10458,Italian,1
+10458,Japanese,1
+10458,Korean,1
+10458,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10458,Mediterranean,1
+10458,Mexican,1
+10458,Pizza,1
+10458,Pizza/Italian,1
+10458,Sandwiches,1
+10458,Sandwiches/Salads/Mixed Buffet,1
+10458,Spanish,1
+10459,American,1
+10459,Bakery,1
+10459,Caribbean,1
+10459,Chicken,1
+10459,Chinese,1
+10459,Donuts,1
+10459,Hamburgers,1
+10459,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10459,Mexican,1
+10459,Other,1
+10459,Pizza,1
+10459,Pizza/Italian,1
+10459,Sandwiches,1
+10459,Soul Food,1
+10459,Spanish,1
+10460,African,1
+10460,American,1
+10460,Bakery,1
+10460,CafÃ©/Coffee/Tea,1
+10460,Caribbean,1
+10460,Chicken,1
+10460,Chinese,1
+10460,Donuts,1
+10460,Hamburgers,1
+10460,"Ice Cream, Gelato, Yogurt, Ices",1
+10460,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10460,Mexican,1
+10460,Pizza,1
+10460,Pizza/Italian,1
+10460,Sandwiches,1
+10460,Sandwiches/Salads/Mixed Buffet,1
+10460,Spanish,1
+10460,Tex-Mex,1
+10461,American,1
+10461,Bakery,1
+10461,"Bottled beverages, including water, sodas, juices, etc.",1
+10461,CafÃ©/Coffee/Tea,1
+10461,Caribbean,1
+10461,Chicken,1
+10461,Chinese,1
+10461,Chinese/Cuban,1
+10461,Chinese/Japanese,1
+10461,Delicatessen,1
+10461,Donuts,1
+10461,Greek,1
+10461,Hamburgers,1
+10461,"Ice Cream, Gelato, Yogurt, Ices",1
+10461,Irish,1
+10461,Italian,1
+10461,Japanese,1
+10461,"Juice, Smoothies, Fruit Salads",1
+10461,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10461,Mediterranean,1
+10461,Mexican,1
+10461,Not Listed/Not Applicable,1
+10461,Other,1
+10461,Pizza,1
+10461,Pizza/Italian,1
+10461,Sandwiches,1
+10461,Sandwiches/Salads/Mixed Buffet,1
+10461,Spanish,1
+10461,Tex-Mex,1
+10461,Thai,1
+10462,American,1
+10462,Asian,1
+10462,Bakery,1
+10462,Bangladeshi,1
+10462,CafÃ©/Coffee/Tea,1
+10462,Caribbean,1
+10462,Chicken,1
+10462,Chinese,1
+10462,Delicatessen,1
+10462,Donuts,1
+10462,Eastern European,1
+10462,Hamburgers,1
+10462,"Ice Cream, Gelato, Yogurt, Ices",1
+10462,Indian,1
+10462,Italian,1
+10462,"Juice, Smoothies, Fruit Salads",1
+10462,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10462,Mediterranean,1
+10462,Mexican,1
+10462,Middle Eastern,1
+10462,Pakistani,1
+10462,Pizza,1
+10462,Pizza/Italian,1
+10462,Sandwiches,1
+10462,Sandwiches/Salads/Mixed Buffet,1
+10462,Seafood,1
+10462,Soups & Sandwiches,1
+10462,Spanish,1
+10462,Thai,1
+10463,American,1
+10463,Asian,1
+10463,Bakery,1
+10463,CafÃ©/Coffee/Tea,1
+10463,Chicken,1
+10463,Chinese,1
+10463,Delicatessen,1
+10463,Donuts,1
+10463,Greek,1
+10463,Hamburgers,1
+10463,Hotdogs/Pretzels,1
+10463,"Ice Cream, Gelato, Yogurt, Ices",1
+10463,Indian,1
+10463,Italian,1
+10463,Japanese,1
+10463,Jewish/Kosher,1
+10463,"Juice, Smoothies, Fruit Salads",1
+10463,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10463,Mediterranean,1
+10463,Mexican,1
+10463,Pizza,1
+10463,Pizza/Italian,1
+10463,Sandwiches,1
+10463,Sandwiches/Salads/Mixed Buffet,1
+10463,Spanish,1
+10463,Tapas,1
+10463,Tex-Mex,1
+10463,Thai,1
+10464,American,1
+10464,CafÃ©/Coffee/Tea,1
+10464,Chinese,1
+10464,Delicatessen,1
+10464,Donuts,1
+10464,French,1
+10464,"Ice Cream, Gelato, Yogurt, Ices",1
+10464,Irish,1
+10464,Italian,1
+10464,Japanese,1
+10464,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10464,Pizza/Italian,1
+10464,Sandwiches,1
+10464,Seafood,1
+10464,Spanish,1
+10465,American,1
+10465,Armenian,1
+10465,Asian,1
+10465,"Bottled beverages, including water, sodas, juices, etc.",1
+10465,CafÃ©/Coffee/Tea,1
+10465,Chicken,1
+10465,Chinese,1
+10465,Delicatessen,1
+10465,Donuts,1
+10465,Hamburgers,1
+10465,"Ice Cream, Gelato, Yogurt, Ices",1
+10465,Irish,1
+10465,Italian,1
+10465,Japanese,1
+10465,"Juice, Smoothies, Fruit Salads",1
+10465,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10465,Mexican,1
+10465,Pizza,1
+10465,Pizza/Italian,1
+10465,Sandwiches,1
+10465,Seafood,1
+10465,Soul Food,1
+10465,Spanish,1
+10465,Tex-Mex,1
+10466,American,1
+10466,Bakery,1
+10466,Caribbean,1
+10466,Chicken,1
+10466,Chinese,1
+10466,Donuts,1
+10466,Hamburgers,1
+10466,Hawaiian,1
+10466,"Ice Cream, Gelato, Yogurt, Ices",1
+10466,"Juice, Smoothies, Fruit Salads",1
+10466,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10466,Pizza,1
+10466,Pizza/Italian,1
+10466,Sandwiches,1
+10466,Sandwiches/Salads/Mixed Buffet,1
+10466,Soul Food,1
+10466,Spanish,1
+10467,African,1
+10467,American,1
+10467,Bakery,1
+10467,Bangladeshi,1
+10467,CafÃ©/Coffee/Tea,1
+10467,Caribbean,1
+10467,Chicken,1
+10467,Chinese,1
+10467,Creole/Cajun,1
+10467,Delicatessen,1
+10467,Donuts,1
+10467,Hamburgers,1
+10467,Indian,1
+10467,"Juice, Smoothies, Fruit Salads",1
+10467,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10467,Mexican,1
+10467,Pancakes/Waffles,1
+10467,Pizza,1
+10467,Pizza/Italian,1
+10467,Sandwiches,1
+10467,Seafood,1
+10467,Spanish,1
+10467,Tex-Mex,1
+10468,African,1
+10468,American,1
+10468,Asian,1
+10468,Bakery,1
+10468,Barbecue,1
+10468,CafÃ©/Coffee/Tea,1
+10468,Chicken,1
+10468,Chinese,1
+10468,Delicatessen,1
+10468,Donuts,1
+10468,Greek,1
+10468,Hamburgers,1
+10468,Irish,1
+10468,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10468,Mexican,1
+10468,Pizza,1
+10468,Pizza/Italian,1
+10468,Sandwiches,1
+10468,Spanish,1
+10469,African,1
+10469,American,1
+10469,Bakery,1
+10469,CafÃ©/Coffee/Tea,1
+10469,Caribbean,1
+10469,Chicken,1
+10469,Chinese,1
+10469,Delicatessen,1
+10469,Donuts,1
+10469,Eastern European,1
+10469,Hamburgers,1
+10469,Italian,1
+10469,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10469,Pakistani,1
+10469,Pizza,1
+10469,Pizza/Italian,1
+10469,Sandwiches,1
+10469,Spanish,1
+10470,American,1
+10470,Bakery,1
+10470,"Bottled beverages, including water, sodas, juices, etc.",1
+10470,Caribbean,1
+10470,Chicken,1
+10470,Chinese,1
+10470,Donuts,1
+10470,Hamburgers,1
+10470,Indian,1
+10470,Irish,1
+10470,Italian,1
+10470,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10470,Other,1
+10470,Pizza,1
+10470,Spanish,1
+10471,American,1
+10471,Barbecue,1
+10471,Chinese,1
+10471,Donuts,1
+10471,Hamburgers,1
+10471,Italian,1
+10471,Japanese,1
+10471,Jewish/Kosher,1
+10471,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10471,Mexican,1
+10471,Pizza,1
+10471,Pizza/Italian,1
+10471,Sandwiches,1
+10471,Spanish,1
+10471,Steak,1
+10472,African,1
+10472,American,1
+10472,Bakery,1
+10472,Bangladeshi,1
+10472,"Bottled beverages, including water, sodas, juices, etc.",1
+10472,CafÃ©/Coffee/Tea,1
+10472,Caribbean,1
+10472,Chicken,1
+10472,Chinese,1
+10472,Chinese/Cuban,1
+10472,Donuts,1
+10472,Hamburgers,1
+10472,"Juice, Smoothies, Fruit Salads",1
+10472,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10472,Mexican,1
+10472,Other,1
+10472,Pancakes/Waffles,1
+10472,Pizza,1
+10472,Soul Food,1
+10472,Spanish,1
+10473,American,1
+10473,Chicken,1
+10473,Chinese,1
+10473,Donuts,1
+10473,Hamburgers,1
+10473,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10473,Pizza,1
+10473,Pizza/Italian,1
+10473,Sandwiches,1
+10473,Sandwiches/Salads/Mixed Buffet,1
+10473,Seafood,1
+10473,Spanish,1
+10474,American,1
+10474,CafÃ©/Coffee/Tea,1
+10474,Chinese,1
+10474,Delicatessen,1
+10474,Donuts,1
+10474,Hamburgers,1
+10474,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+10474,Mexican,1
+10474,Other,1
+10474,Pizza,1
+10474,Pizza/Italian,1
+10474,Spanish,1
+10475,American,1
+10475,Bagels/Pretzels,1
+10475,Bakery,1
+10475,CafÃ©/Coffee/Tea,1
+10475,Caribbean,1
+10475,Chicken,1
+10475,Chinese,1
+10475,Delicatessen,1
+10475,Donuts,1
+10475,Hamburgers,1
+10475,Hotdogs,1
+10475,"Ice Cream, Gelato, Yogurt, Ices",1
+10475,Italian,1
+10475,Japanese,1
+10475,"Juice, Smoothies, Fruit Salads",1
+10475,Mediterranean,1
+10475,Mexican,1
+10475,Pancakes/Waffles,1
+10475,Pizza,1
+10475,Pizza/Italian,1
+10475,Sandwiches,1
+10475,Sandwiches/Salads/Mixed Buffet,1
+10475,Seafood,1
+10475,Steak,1
+10475,Tex-Mex,1
+10475,Thai,1
+11001,American,1
+11001,Pizza/Italian,1
+11004,Afghan,1
+11004,American,1
+11004,Bagels/Pretzels,1
+11004,CafÃ©/Coffee/Tea,1
+11004,Chicken,1
+11004,Chinese,1
+11004,Donuts,1
+11004,Hamburgers,1
+11004,"Ice Cream, Gelato, Yogurt, Ices",1
+11004,Indian,1
+11004,Mediterranean,1
+11004,Pizza,1
+11004,Sandwiches,1
+11004,Tex-Mex,1
+11004,Vegetarian,1
+11005,American,1
+11005,Continental,1
+11040,American,1
+11040,Asian,1
+11040,Chinese,1
+11040,Indian,1
+11040,Italian,1
+11040,Other,1
+11040,Pizza,1
+11040,Sandwiches/Salads/Mixed Buffet,1
+11040,Spanish,1
+11101,American,1
+11101,Armenian,1
+11101,Asian,1
+11101,Bagels/Pretzels,1
+11101,Bakery,1
+11101,Brazilian,1
+11101,CafÃ©/Coffee/Tea,1
+11101,Caribbean,1
+11101,Chicken,1
+11101,Chinese,1
+11101,Chinese/Japanese,1
+11101,Continental,1
+11101,Delicatessen,1
+11101,Donuts,1
+11101,Eastern European,1
+11101,Egyptian,1
+11101,French,1
+11101,Greek,1
+11101,Hamburgers,1
+11101,"Ice Cream, Gelato, Yogurt, Ices",1
+11101,Indian,1
+11101,Irish,1
+11101,Italian,1
+11101,Japanese,1
+11101,Jewish/Kosher,1
+11101,"Juice, Smoothies, Fruit Salads",1
+11101,Korean,1
+11101,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11101,Mediterranean,1
+11101,Mexican,1
+11101,Middle Eastern,1
+11101,Other,1
+11101,Peruvian,1
+11101,Pizza,1
+11101,Sandwiches,1
+11101,Sandwiches/Salads/Mixed Buffet,1
+11101,Seafood,1
+11101,Spanish,1
+11101,Thai,1
+11101,Vietnamese/Cambodian/Malaysia,1
+11102,American,1
+11102,Asian,1
+11102,Bagels/Pretzels,1
+11102,Bakery,1
+11102,Bangladeshi,1
+11102,CafÃ©/Coffee/Tea,1
+11102,Chinese,1
+11102,Czech,1
+11102,Delicatessen,1
+11102,Donuts,1
+11102,Eastern European,1
+11102,Greek,1
+11102,Hamburgers,1
+11102,"Ice Cream, Gelato, Yogurt, Ices",1
+11102,Indian,1
+11102,Irish,1
+11102,Italian,1
+11102,"Juice, Smoothies, Fruit Salads",1
+11102,Mediterranean,1
+11102,Mexican,1
+11102,Other,1
+11102,Pakistani,1
+11102,Peruvian,1
+11102,Pizza,1
+11102,Pizza/Italian,1
+11102,Sandwiches,1
+11102,Seafood,1
+11102,Spanish,1
+11103,Afghan,1
+11103,American,1
+11103,Armenian,1
+11103,Asian,1
+11103,Bagels/Pretzels,1
+11103,Bakery,1
+11103,Barbecue,1
+11103,"Bottled beverages, including water, sodas, juices, etc.",1
+11103,Brazilian,1
+11103,CafÃ©/Coffee/Tea,1
+11103,Cajun,1
+11103,Chicken,1
+11103,Chilean,1
+11103,Chinese,1
+11103,Continental,1
+11103,Delicatessen,1
+11103,Donuts,1
+11103,Eastern European,1
+11103,Egyptian,1
+11103,German,1
+11103,Greek,1
+11103,Hamburgers,1
+11103,Hawaiian,1
+11103,"Ice Cream, Gelato, Yogurt, Ices",1
+11103,Indian,1
+11103,Irish,1
+11103,Italian,1
+11103,Japanese,1
+11103,"Juice, Smoothies, Fruit Salads",1
+11103,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11103,Mediterranean,1
+11103,Mexican,1
+11103,Middle Eastern,1
+11103,Moroccan,1
+11103,Other,1
+11103,Peruvian,1
+11103,Pizza,1
+11103,Pizza/Italian,1
+11103,Sandwiches,1
+11103,Seafood,1
+11103,Spanish,1
+11103,Steak,1
+11103,Tex-Mex,1
+11103,Thai,1
+11103,Vegetarian,1
+11103,Vietnamese/Cambodian/Malaysia,1
+11104,American,1
+11104,Armenian,1
+11104,Asian,1
+11104,Bagels/Pretzels,1
+11104,Bakery,1
+11104,Bangladeshi,1
+11104,"Bottled beverages, including water, sodas, juices, etc.",1
+11104,CafÃ©/Coffee/Tea,1
+11104,Chinese,1
+11104,Donuts,1
+11104,Eastern European,1
+11104,Hamburgers,1
+11104,"Ice Cream, Gelato, Yogurt, Ices",1
+11104,Indian,1
+11104,Irish,1
+11104,Italian,1
+11104,Japanese,1
+11104,"Juice, Smoothies, Fruit Salads",1
+11104,Korean,1
+11104,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11104,Mexican,1
+11104,Not Listed/Not Applicable,1
+11104,Peruvian,1
+11104,Pizza,1
+11104,Pizza/Italian,1
+11104,Sandwiches,1
+11104,Sandwiches/Salads/Mixed Buffet,1
+11104,Spanish,1
+11104,Thai,1
+11104,Turkish,1
+11105,Afghan,1
+11105,American,1
+11105,Asian,1
+11105,Australian,1
+11105,Bagels/Pretzels,1
+11105,Bakery,1
+11105,Brazilian,1
+11105,CafÃ©/Coffee/Tea,1
+11105,Chicken,1
+11105,Chinese,1
+11105,Chinese/Japanese,1
+11105,Creole/Cajun,1
+11105,Czech,1
+11105,Delicatessen,1
+11105,Donuts,1
+11105,French,1
+11105,Greek,1
+11105,Hamburgers,1
+11105,Hotdogs,1
+11105,"Ice Cream, Gelato, Yogurt, Ices",1
+11105,Indian,1
+11105,Irish,1
+11105,Italian,1
+11105,Japanese,1
+11105,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11105,Mediterranean,1
+11105,Mexican,1
+11105,Middle Eastern,1
+11105,Other,1
+11105,Peruvian,1
+11105,Pizza,1
+11105,Pizza/Italian,1
+11105,Salads,1
+11105,Sandwiches,1
+11105,Sandwiches/Salads/Mixed Buffet,1
+11105,Seafood,1
+11105,Southwestern,1
+11105,Spanish,1
+11105,Steak,1
+11105,Tex-Mex,1
+11105,Thai,1
+11105,Turkish,1
+11106,Afghan,1
+11106,American,1
+11106,Armenian,1
+11106,Asian,1
+11106,Bagels/Pretzels,1
+11106,Bakery,1
+11106,Bangladeshi,1
+11106,Barbecue,1
+11106,Brazilian,1
+11106,CafÃ©/Coffee/Tea,1
+11106,Caribbean,1
+11106,Chicken,1
+11106,Chinese,1
+11106,Continental,1
+11106,Delicatessen,1
+11106,Donuts,1
+11106,English,1
+11106,French,1
+11106,Greek,1
+11106,Hamburgers,1
+11106,Hawaiian,1
+11106,"Ice Cream, Gelato, Yogurt, Ices",1
+11106,Indian,1
+11106,Irish,1
+11106,Italian,1
+11106,Japanese,1
+11106,"Juice, Smoothies, Fruit Salads",1
+11106,Korean,1
+11106,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11106,Mediterranean,1
+11106,Mexican,1
+11106,Other,1
+11106,Pizza,1
+11106,Pizza/Italian,1
+11106,Russian,1
+11106,Sandwiches,1
+11106,Spanish,1
+11106,Tex-Mex,1
+11106,Thai,1
+11109,American,1
+11109,CafÃ©/Coffee/Tea,1
+11109,Chinese,1
+11109,Italian,1
+11109,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11201,African,1
+11201,American,1
+11201,Asian,1
+11201,Bagels/Pretzels,1
+11201,Bakery,1
+11201,Barbecue,1
+11201,CafÃ©/Coffee/Tea,1
+11201,Cajun,1
+11201,Caribbean,1
+11201,Chicken,1
+11201,Chinese,1
+11201,Chinese/Japanese,1
+11201,Continental,1
+11201,Delicatessen,1
+11201,Donuts,1
+11201,Eastern European,1
+11201,English,1
+11201,Ethiopian,1
+11201,French,1
+11201,Greek,1
+11201,Hamburgers,1
+11201,Hotdogs,1
+11201,"Ice Cream, Gelato, Yogurt, Ices",1
+11201,Indian,1
+11201,Italian,1
+11201,Japanese,1
+11201,"Juice, Smoothies, Fruit Salads",1
+11201,Korean,1
+11201,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11201,Mediterranean,1
+11201,Mexican,1
+11201,Middle Eastern,1
+11201,Other,1
+11201,Pakistani,1
+11201,Pizza,1
+11201,Pizza/Italian,1
+11201,Polish,1
+11201,Salads,1
+11201,Sandwiches,1
+11201,Sandwiches/Salads/Mixed Buffet,1
+11201,Seafood,1
+11201,Soul Food,1
+11201,Soups & Sandwiches,1
+11201,Spanish,1
+11201,Tapas,1
+11201,Tex-Mex,1
+11201,Thai,1
+11201,Turkish,1
+11201,Vegetarian,1
+11201,Vietnamese/Cambodian/Malaysia,1
+11203,African,1
+11203,American,1
+11203,Bakery,1
+11203,CafÃ©/Coffee/Tea,1
+11203,Caribbean,1
+11203,Chicken,1
+11203,Chinese,1
+11203,Creole,1
+11203,Donuts,1
+11203,Hamburgers,1
+11203,"Juice, Smoothies, Fruit Salads",1
+11203,Other,1
+11203,Pizza,1
+11203,Sandwiches,1
+11203,Seafood,1
+11203,Spanish,1
+11203,Tex-Mex,1
+11203,Vegetarian,1
+11204,American,1
+11204,Bakery,1
+11204,CafÃ©/Coffee/Tea,1
+11204,Chinese,1
+11204,Chinese/Japanese,1
+11204,Donuts,1
+11204,Eastern European,1
+11204,Hamburgers,1
+11204,"Ice Cream, Gelato, Yogurt, Ices",1
+11204,Italian,1
+11204,Japanese,1
+11204,Jewish/Kosher,1
+11204,"Juice, Smoothies, Fruit Salads",1
+11204,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11204,Mediterranean,1
+11204,Mexican,1
+11204,Other,1
+11204,Pizza,1
+11204,Pizza/Italian,1
+11204,Russian,1
+11204,Sandwiches,1
+11204,Tex-Mex,1
+11204,Vietnamese/Cambodian/Malaysia,1
+11205,African,1
+11205,American,1
+11205,Bagels/Pretzels,1
+11205,Bakery,1
+11205,CafÃ©/Coffee/Tea,1
+11205,Cajun,1
+11205,Californian,1
+11205,Caribbean,1
+11205,Chicken,1
+11205,Chinese,1
+11205,Creole,1
+11205,Donuts,1
+11205,French,1
+11205,Indian,1
+11205,Irish,1
+11205,Italian,1
+11205,Japanese,1
+11205,Jewish/Kosher,1
+11205,Korean,1
+11205,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11205,Mediterranean,1
+11205,Mexican,1
+11205,Middle Eastern,1
+11205,Other,1
+11205,Pizza,1
+11205,Pizza/Italian,1
+11205,Sandwiches,1
+11205,Seafood,1
+11205,Soul Food,1
+11205,Southwestern,1
+11205,Spanish,1
+11205,Tex-Mex,1
+11205,Thai,1
+11205,Vegetarian,1
+11206,American,1
+11206,Armenian,1
+11206,Asian,1
+11206,Bagels/Pretzels,1
+11206,Bakery,1
+11206,"Bottled beverages, including water, sodas, juices, etc.",1
+11206,CafÃ©/Coffee/Tea,1
+11206,Caribbean,1
+11206,Chicken,1
+11206,Chinese,1
+11206,Continental,1
+11206,Delicatessen,1
+11206,Donuts,1
+11206,French,1
+11206,Hamburgers,1
+11206,"Ice Cream, Gelato, Yogurt, Ices",1
+11206,Indian,1
+11206,Italian,1
+11206,Japanese,1
+11206,Jewish/Kosher,1
+11206,"Juice, Smoothies, Fruit Salads",1
+11206,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11206,Mediterranean,1
+11206,Mexican,1
+11206,Middle Eastern,1
+11206,Other,1
+11206,Pancakes/Waffles,1
+11206,Pizza,1
+11206,Pizza/Italian,1
+11206,Sandwiches,1
+11206,Sandwiches/Salads/Mixed Buffet,1
+11206,Spanish,1
+11206,Thai,1
+11206,Vegetarian,1
+11207,African,1
+11207,American,1
+11207,Bakery,1
+11207,CafÃ©/Coffee/Tea,1
+11207,Caribbean,1
+11207,Chicken,1
+11207,Chinese,1
+11207,Delicatessen,1
+11207,Donuts,1
+11207,Hamburgers,1
+11207,"Ice Cream, Gelato, Yogurt, Ices",1
+11207,Indian,1
+11207,Italian,1
+11207,Japanese,1
+11207,"Juice, Smoothies, Fruit Salads",1
+11207,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11207,Mexican,1
+11207,Other,1
+11207,Pizza,1
+11207,Pizza/Italian,1
+11207,Sandwiches,1
+11207,Sandwiches/Salads/Mixed Buffet,1
+11207,Spanish,1
+11207,Tex-Mex,1
+11208,American,1
+11208,Bakery,1
+11208,Bangladeshi,1
+11208,CafÃ©/Coffee/Tea,1
+11208,Caribbean,1
+11208,Chicken,1
+11208,Chinese,1
+11208,Delicatessen,1
+11208,Donuts,1
+11208,Hamburgers,1
+11208,Indian,1
+11208,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11208,Mexican,1
+11208,Other,1
+11208,Pizza,1
+11208,Pizza/Italian,1
+11208,Sandwiches,1
+11208,Spanish,1
+11209,American,1
+11209,Armenian,1
+11209,Asian,1
+11209,Bagels/Pretzels,1
+11209,Bakery,1
+11209,Barbecue,1
+11209,"Bottled beverages, including water, sodas, juices, etc.",1
+11209,CafÃ©/Coffee/Tea,1
+11209,Chicken,1
+11209,Chinese,1
+11209,Czech,1
+11209,Delicatessen,1
+11209,Donuts,1
+11209,Eastern European,1
+11209,Egyptian,1
+11209,German,1
+11209,Greek,1
+11209,Hamburgers,1
+11209,Hotdogs,1
+11209,"Ice Cream, Gelato, Yogurt, Ices",1
+11209,Indian,1
+11209,Irish,1
+11209,Italian,1
+11209,Japanese,1
+11209,"Juice, Smoothies, Fruit Salads",1
+11209,Korean,1
+11209,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11209,Mediterranean,1
+11209,Mexican,1
+11209,Middle Eastern,1
+11209,Moroccan,1
+11209,Other,1
+11209,Pizza,1
+11209,Pizza/Italian,1
+11209,Salads,1
+11209,Sandwiches,1
+11209,Sandwiches/Salads/Mixed Buffet,1
+11209,Seafood,1
+11209,Spanish,1
+11209,Steak,1
+11209,Tapas,1
+11209,Tex-Mex,1
+11209,Thai,1
+11209,Turkish,1
+11209,Vietnamese/Cambodian/Malaysia,1
+11210,American,1
+11210,Bagels/Pretzels,1
+11210,Bakery,1
+11210,Barbecue,1
+11210,CafÃ©/Coffee/Tea,1
+11210,Caribbean,1
+11210,Chicken,1
+11210,Chinese,1
+11210,Creole,1
+11210,Creole/Cajun,1
+11210,Donuts,1
+11210,Hamburgers,1
+11210,Indian,1
+11210,Japanese,1
+11210,Jewish/Kosher,1
+11210,"Juice, Smoothies, Fruit Salads",1
+11210,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11210,Mexican,1
+11210,Middle Eastern,1
+11210,Pizza,1
+11210,Pizza/Italian,1
+11210,Sandwiches,1
+11210,Tex-Mex,1
+11210,Vegetarian,1
+11211,American,1
+11211,Asian,1
+11211,Bagels/Pretzels,1
+11211,Bakery,1
+11211,Barbecue,1
+11211,"Bottled beverages, including water, sodas, juices, etc.",1
+11211,Brazilian,1
+11211,CafÃ©/Coffee/Tea,1
+11211,Caribbean,1
+11211,Chicken,1
+11211,Chinese,1
+11211,Chinese/Cuban,1
+11211,Continental,1
+11211,Delicatessen,1
+11211,Donuts,1
+11211,Eastern European,1
+11211,French,1
+11211,German,1
+11211,Greek,1
+11211,Hamburgers,1
+11211,Hawaiian,1
+11211,"Ice Cream, Gelato, Yogurt, Ices",1
+11211,Indian,1
+11211,Irish,1
+11211,Italian,1
+11211,Japanese,1
+11211,Jewish/Kosher,1
+11211,"Juice, Smoothies, Fruit Salads",1
+11211,Korean,1
+11211,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11211,Mediterranean,1
+11211,Mexican,1
+11211,Middle Eastern,1
+11211,Other,1
+11211,Peruvian,1
+11211,Pizza,1
+11211,Pizza/Italian,1
+11211,Russian,1
+11211,Sandwiches,1
+11211,Sandwiches/Salads/Mixed Buffet,1
+11211,Soul Food,1
+11211,Spanish,1
+11211,Steak,1
+11211,Tapas,1
+11211,Tex-Mex,1
+11211,Thai,1
+11211,Vegetarian,1
+11211,Vietnamese/Cambodian/Malaysia,1
+11212,American,1
+11212,Asian,1
+11212,Bakery,1
+11212,CafÃ©/Coffee/Tea,1
+11212,Caribbean,1
+11212,Chicken,1
+11212,Chinese,1
+11212,Donuts,1
+11212,Hamburgers,1
+11212,Japanese,1
+11212,"Juice, Smoothies, Fruit Salads",1
+11212,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11212,Other,1
+11212,Pizza,1
+11212,Pizza/Italian,1
+11212,Sandwiches,1
+11212,Seafood,1
+11212,Soul Food,1
+11212,Spanish,1
+11213,American,1
+11213,Bakery,1
+11213,CafÃ©/Coffee/Tea,1
+11213,Californian,1
+11213,Caribbean,1
+11213,Chicken,1
+11213,Chinese,1
+11213,Donuts,1
+11213,Hamburgers,1
+11213,"Ice Cream, Gelato, Yogurt, Ices",1
+11213,Indian,1
+11213,Jewish/Kosher,1
+11213,"Juice, Smoothies, Fruit Salads",1
+11213,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11213,Other,1
+11213,Pizza,1
+11213,Pizza/Italian,1
+11213,Sandwiches,1
+11213,Seafood,1
+11213,Spanish,1
+11214,American,1
+11214,Armenian,1
+11214,Asian,1
+11214,Bagels/Pretzels,1
+11214,Bakery,1
+11214,"Bottled beverages, including water, sodas, juices, etc.",1
+11214,CafÃ©/Coffee/Tea,1
+11214,Chicken,1
+11214,Chinese,1
+11214,Chinese/Japanese,1
+11214,Delicatessen,1
+11214,Donuts,1
+11214,Eastern European,1
+11214,Hamburgers,1
+11214,"Ice Cream, Gelato, Yogurt, Ices",1
+11214,Italian,1
+11214,Japanese,1
+11214,"Juice, Smoothies, Fruit Salads",1
+11214,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11214,Mediterranean,1
+11214,Mexican,1
+11214,Middle Eastern,1
+11214,Other,1
+11214,Pakistani,1
+11214,Peruvian,1
+11214,Pizza,1
+11214,Pizza/Italian,1
+11214,Polish,1
+11214,Russian,1
+11214,Sandwiches,1
+11214,Spanish,1
+11214,Steak,1
+11214,Tex-Mex,1
+11214,Turkish,1
+11214,Vietnamese/Cambodian/Malaysia,1
+11215,American,1
+11215,Asian,1
+11215,Australian,1
+11215,Bagels/Pretzels,1
+11215,Bakery,1
+11215,Barbecue,1
+11215,"Bottled beverages, including water, sodas, juices, etc.",1
+11215,CafÃ©/Coffee/Tea,1
+11215,Chicken,1
+11215,Chinese,1
+11215,Chinese/Cuban,1
+11215,Continental,1
+11215,Delicatessen,1
+11215,Donuts,1
+11215,Eastern European,1
+11215,Egyptian,1
+11215,English,1
+11215,French,1
+11215,German,1
+11215,Greek,1
+11215,Hamburgers,1
+11215,"Ice Cream, Gelato, Yogurt, Ices",1
+11215,Indian,1
+11215,Indonesian,1
+11215,Irish,1
+11215,Italian,1
+11215,Japanese,1
+11215,Jewish/Kosher,1
+11215,"Juice, Smoothies, Fruit Salads",1
+11215,Korean,1
+11215,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11215,Mediterranean,1
+11215,Mexican,1
+11215,Middle Eastern,1
+11215,Other,1
+11215,Pancakes/Waffles,1
+11215,Peruvian,1
+11215,Pizza,1
+11215,Pizza/Italian,1
+11215,Salads,1
+11215,Sandwiches,1
+11215,Sandwiches/Salads/Mixed Buffet,1
+11215,Seafood,1
+11215,Spanish,1
+11215,Tapas,1
+11215,Tex-Mex,1
+11215,Thai,1
+11215,Turkish,1
+11215,Vietnamese/Cambodian/Malaysia,1
+11216,African,1
+11216,American,1
+11216,Bagels/Pretzels,1
+11216,Bakery,1
+11216,"Bottled beverages, including water, sodas, juices, etc.",1
+11216,CafÃ©/Coffee/Tea,1
+11216,Cajun,1
+11216,Caribbean,1
+11216,Chicken,1
+11216,Chinese,1
+11216,Donuts,1
+11216,French,1
+11216,Hamburgers,1
+11216,"Ice Cream, Gelato, Yogurt, Ices",1
+11216,Indian,1
+11216,Japanese,1
+11216,"Juice, Smoothies, Fruit Salads",1
+11216,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11216,Mexican,1
+11216,Middle Eastern,1
+11216,Other,1
+11216,Pizza,1
+11216,Pizza/Italian,1
+11216,Sandwiches,1
+11216,Soul Food,1
+11216,Southwestern,1
+11216,Spanish,1
+11216,Tex-Mex,1
+11216,Vegetarian,1
+11217,American,1
+11217,Asian,1
+11217,Bagels/Pretzels,1
+11217,Bakery,1
+11217,Barbecue,1
+11217,"Bottled beverages, including water, sodas, juices, etc.",1
+11217,CafÃ©/Coffee/Tea,1
+11217,Caribbean,1
+11217,Chicken,1
+11217,Chinese,1
+11217,Chinese/Japanese,1
+11217,Creole,1
+11217,Delicatessen,1
+11217,Donuts,1
+11217,Ethiopian,1
+11217,French,1
+11217,German,1
+11217,Greek,1
+11217,Hamburgers,1
+11217,Hotdogs,1
+11217,Hotdogs/Pretzels,1
+11217,"Ice Cream, Gelato, Yogurt, Ices",1
+11217,Indian,1
+11217,Italian,1
+11217,Japanese,1
+11217,Jewish/Kosher,1
+11217,"Juice, Smoothies, Fruit Salads",1
+11217,Korean,1
+11217,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11217,Mediterranean,1
+11217,Mexican,1
+11217,Middle Eastern,1
+11217,Nuts/Confectionary,1
+11217,Other,1
+11217,Pizza,1
+11217,Pizza/Italian,1
+11217,Sandwiches,1
+11217,Sandwiches/Salads/Mixed Buffet,1
+11217,Seafood,1
+11217,Soups,1
+11217,Soups & Sandwiches,1
+11217,Spanish,1
+11217,Steak,1
+11217,Tex-Mex,1
+11217,Thai,1
+11217,Vegetarian,1
+11217,Vietnamese/Cambodian/Malaysia,1
+11218,American,1
+11218,Asian,1
+11218,Bakery,1
+11218,Bangladeshi,1
+11218,CafÃ©/Coffee/Tea,1
+11218,Caribbean,1
+11218,Chicken,1
+11218,Chinese,1
+11218,Delicatessen,1
+11218,Donuts,1
+11218,Eastern European,1
+11218,French,1
+11218,Hamburgers,1
+11218,"Ice Cream, Gelato, Yogurt, Ices",1
+11218,Indian,1
+11218,Italian,1
+11218,Japanese,1
+11218,Jewish/Kosher,1
+11218,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11218,Mexican,1
+11218,Middle Eastern,1
+11218,Pakistani,1
+11218,Pizza,1
+11218,Pizza/Italian,1
+11218,Russian,1
+11218,Sandwiches,1
+11218,Sandwiches/Salads/Mixed Buffet,1
+11218,Spanish,1
+11218,Tex-Mex,1
+11218,Thai,1
+11218,Vietnamese/Cambodian/Malaysia,1
+11219,American,1
+11219,Asian,1
+11219,Bagels/Pretzels,1
+11219,Bakery,1
+11219,Chinese,1
+11219,Chinese/Japanese,1
+11219,Continental,1
+11219,Delicatessen,1
+11219,Donuts,1
+11219,Greek,1
+11219,Hamburgers,1
+11219,Indian,1
+11219,Italian,1
+11219,Japanese,1
+11219,Jewish/Kosher,1
+11219,"Juice, Smoothies, Fruit Salads",1
+11219,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11219,Mexican,1
+11219,Other,1
+11219,Pizza,1
+11219,Pizza/Italian,1
+11219,Russian,1
+11219,Sandwiches/Salads/Mixed Buffet,1
+11219,Seafood,1
+11219,Spanish,1
+11220,American,1
+11220,Asian,1
+11220,Bagels/Pretzels,1
+11220,Bakery,1
+11220,Barbecue,1
+11220,CafÃ©/Coffee/Tea,1
+11220,Chicken,1
+11220,Chinese,1
+11220,Chinese/Cuban,1
+11220,Chinese/Japanese,1
+11220,Delicatessen,1
+11220,Donuts,1
+11220,Egyptian,1
+11220,Greek,1
+11220,Hamburgers,1
+11220,"Ice Cream, Gelato, Yogurt, Ices",1
+11220,Indian,1
+11220,Irish,1
+11220,Italian,1
+11220,Japanese,1
+11220,"Juice, Smoothies, Fruit Salads",1
+11220,Korean,1
+11220,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11220,Mediterranean,1
+11220,Mexican,1
+11220,Middle Eastern,1
+11220,Moroccan,1
+11220,Other,1
+11220,Peruvian,1
+11220,Pizza,1
+11220,Pizza/Italian,1
+11220,Sandwiches,1
+11220,Sandwiches/Salads/Mixed Buffet,1
+11220,Seafood,1
+11220,Spanish,1
+11220,Tex-Mex,1
+11220,Thai,1
+11220,Vietnamese/Cambodian/Malaysia,1
+11221,American,1
+11221,Bakery,1
+11221,"Bottled beverages, including water, sodas, juices, etc.",1
+11221,CafÃ©/Coffee/Tea,1
+11221,Caribbean,1
+11221,Chicken,1
+11221,Chinese,1
+11221,Donuts,1
+11221,French,1
+11221,Hamburgers,1
+11221,Indian,1
+11221,Italian,1
+11221,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11221,Mediterranean,1
+11221,Mexican,1
+11221,Middle Eastern,1
+11221,Other,1
+11221,Pizza,1
+11221,Pizza/Italian,1
+11221,Soul Food,1
+11221,Spanish,1
+11221,Tex-Mex,1
+11221,Vegetarian,1
+11221,Vietnamese/Cambodian/Malaysia,1
+11222,American,1
+11222,Armenian,1
+11222,Asian,1
+11222,Bagels/Pretzels,1
+11222,Bakery,1
+11222,"Bottled beverages, including water, sodas, juices, etc.",1
+11222,CafÃ©/Coffee/Tea,1
+11222,Chicken,1
+11222,Chinese,1
+11222,Continental,1
+11222,Delicatessen,1
+11222,French,1
+11222,Hamburgers,1
+11222,"Ice Cream, Gelato, Yogurt, Ices",1
+11222,Indian,1
+11222,Indonesian,1
+11222,Irish,1
+11222,Italian,1
+11222,Japanese,1
+11222,"Juice, Smoothies, Fruit Salads",1
+11222,Korean,1
+11222,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11222,Mediterranean,1
+11222,Mexican,1
+11222,Middle Eastern,1
+11222,Other,1
+11222,Pizza,1
+11222,Pizza/Italian,1
+11222,Polish,1
+11222,Portuguese,1
+11222,Sandwiches,1
+11222,Seafood,1
+11222,Soul Food,1
+11222,Spanish,1
+11222,Steak,1
+11222,Thai,1
+11222,Turkish,1
+11222,Vegetarian,1
+11222,Vietnamese/Cambodian/Malaysia,1
+11223,American,1
+11223,Asian,1
+11223,Bagels/Pretzels,1
+11223,Bakery,1
+11223,CafÃ©/Coffee/Tea,1
+11223,Chicken,1
+11223,Chinese,1
+11223,Delicatessen,1
+11223,Donuts,1
+11223,Eastern European,1
+11223,Greek,1
+11223,Italian,1
+11223,Japanese,1
+11223,Jewish/Kosher,1
+11223,"Juice, Smoothies, Fruit Salads",1
+11223,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11223,Mediterranean,1
+11223,Mexican,1
+11223,Middle Eastern,1
+11223,Other,1
+11223,Peruvian,1
+11223,Pizza,1
+11223,Pizza/Italian,1
+11223,Russian,1
+11223,Sandwiches,1
+11223,Seafood,1
+11223,Soups & Sandwiches,1
+11223,Spanish,1
+11223,Turkish,1
+11223,Vegetarian,1
+11223,Vietnamese/Cambodian/Malaysia,1
+11224,American,1
+11224,"Bottled beverages, including water, sodas, juices, etc.",1
+11224,CafÃ©/Coffee/Tea,1
+11224,Caribbean,1
+11224,Chicken,1
+11224,Chinese,1
+11224,Donuts,1
+11224,Hamburgers,1
+11224,Hotdogs,1
+11224,"Ice Cream, Gelato, Yogurt, Ices",1
+11224,Italian,1
+11224,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11224,Mexican,1
+11224,Other,1
+11224,Pizza,1
+11224,Russian,1
+11224,Sandwiches,1
+11224,Spanish,1
+11224,Turkish,1
+11225,American,1
+11225,Armenian,1
+11225,Bagels/Pretzels,1
+11225,Bakery,1
+11225,CafÃ©/Coffee/Tea,1
+11225,Caribbean,1
+11225,Chicken,1
+11225,Chinese,1
+11225,Creole,1
+11225,Donuts,1
+11225,Hamburgers,1
+11225,Indian,1
+11225,Italian,1
+11225,Japanese,1
+11225,Jewish/Kosher,1
+11225,"Juice, Smoothies, Fruit Salads",1
+11225,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11225,Mediterranean,1
+11225,Mexican,1
+11225,Middle Eastern,1
+11225,Pizza,1
+11225,Sandwiches/Salads/Mixed Buffet,1
+11225,Soul Food,1
+11225,Spanish,1
+11225,Vegetarian,1
+11226,African,1
+11226,American,1
+11226,Asian,1
+11226,Bagels/Pretzels,1
+11226,Bakery,1
+11226,"Bottled beverages, including water, sodas, juices, etc.",1
+11226,CafÃ©/Coffee/Tea,1
+11226,Caribbean,1
+11226,Chicken,1
+11226,Chinese,1
+11226,Chinese/Japanese,1
+11226,Creole,1
+11226,Donuts,1
+11226,Fruits/Vegetables,1
+11226,Hamburgers,1
+11226,"Ice Cream, Gelato, Yogurt, Ices",1
+11226,Indian,1
+11226,Japanese,1
+11226,"Juice, Smoothies, Fruit Salads",1
+11226,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11226,Mexican,1
+11226,Other,1
+11226,Pakistani,1
+11226,Pizza,1
+11226,Pizza/Italian,1
+11226,Sandwiches,1
+11226,Soul Food,1
+11226,Spanish,1
+11226,Tex-Mex,1
+11226,Thai,1
+11226,Vegetarian,1
+11228,American,1
+11228,Armenian,1
+11228,Bakery,1
+11228,"Bottled beverages, including water, sodas, juices, etc.",1
+11228,CafÃ©/Coffee/Tea,1
+11228,Chinese,1
+11228,Chinese/Japanese,1
+11228,Delicatessen,1
+11228,Donuts,1
+11228,Hotdogs,1
+11228,"Ice Cream, Gelato, Yogurt, Ices",1
+11228,Italian,1
+11228,Japanese,1
+11228,Mexican,1
+11228,Middle Eastern,1
+11228,Pizza,1
+11228,Pizza/Italian,1
+11228,Salads,1
+11228,Soups & Sandwiches,1
+11228,Steak,1
+11229,Afghan,1
+11229,American,1
+11229,Asian,1
+11229,Bagels/Pretzels,1
+11229,Bakery,1
+11229,"Bottled beverages, including water, sodas, juices, etc.",1
+11229,CafÃ©/Coffee/Tea,1
+11229,Chinese,1
+11229,Donuts,1
+11229,Eastern European,1
+11229,French,1
+11229,"Ice Cream, Gelato, Yogurt, Ices",1
+11229,Irish,1
+11229,Italian,1
+11229,Japanese,1
+11229,Jewish/Kosher,1
+11229,"Juice, Smoothies, Fruit Salads",1
+11229,Mediterranean,1
+11229,Mexican,1
+11229,Middle Eastern,1
+11229,Pizza,1
+11229,Pizza/Italian,1
+11229,Russian,1
+11229,Sandwiches,1
+11229,Tex-Mex,1
+11229,Thai,1
+11229,Turkish,1
+11229,Vietnamese/Cambodian/Malaysia,1
+11230,Afghan,1
+11230,American,1
+11230,Bakery,1
+11230,CafÃ©/Coffee/Tea,1
+11230,Caribbean,1
+11230,Chicken,1
+11230,Chinese,1
+11230,Chinese/Japanese,1
+11230,Delicatessen,1
+11230,Donuts,1
+11230,Eastern European,1
+11230,"Ice Cream, Gelato, Yogurt, Ices",1
+11230,Indian,1
+11230,Italian,1
+11230,Japanese,1
+11230,Jewish/Kosher,1
+11230,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11230,Mediterranean,1
+11230,Mexican,1
+11230,Middle Eastern,1
+11230,Other,1
+11230,Pakistani,1
+11230,Pizza,1
+11230,Pizza/Italian,1
+11230,Russian,1
+11230,Sandwiches,1
+11230,Spanish,1
+11230,Steak,1
+11230,Turkish,1
+11231,American,1
+11231,Bagels/Pretzels,1
+11231,Bakery,1
+11231,Barbecue,1
+11231,CafÃ©/Coffee/Tea,1
+11231,Chicken,1
+11231,Chinese,1
+11231,Delicatessen,1
+11231,Donuts,1
+11231,Eastern European,1
+11231,English,1
+11231,French,1
+11231,Greek,1
+11231,"Ice Cream, Gelato, Yogurt, Ices",1
+11231,Italian,1
+11231,Japanese,1
+11231,"Juice, Smoothies, Fruit Salads",1
+11231,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11231,Mediterranean,1
+11231,Mexican,1
+11231,Middle Eastern,1
+11231,Other,1
+11231,Pizza,1
+11231,Pizza/Italian,1
+11231,Seafood,1
+11231,Tex-Mex,1
+11231,Thai,1
+11231,Vietnamese/Cambodian/Malaysia,1
+11232,American,1
+11232,Asian,1
+11232,Bakery,1
+11232,CafÃ©/Coffee/Tea,1
+11232,Chicken,1
+11232,Chinese,1
+11232,Delicatessen,1
+11232,Donuts,1
+11232,Hamburgers,1
+11232,Japanese,1
+11232,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11232,Mexican,1
+11232,Middle Eastern,1
+11232,Other,1
+11232,Peruvian,1
+11232,Pizza,1
+11232,Pizza/Italian,1
+11232,Sandwiches,1
+11232,Sandwiches/Salads/Mixed Buffet,1
+11232,Spanish,1
+11232,Turkish,1
+11232,Vietnamese/Cambodian/Malaysia,1
+11233,African,1
+11233,American,1
+11233,Asian,1
+11233,Bakery,1
+11233,Bangladeshi,1
+11233,Barbecue,1
+11233,CafÃ©/Coffee/Tea,1
+11233,Cajun,1
+11233,Caribbean,1
+11233,Chicken,1
+11233,Chinese,1
+11233,Creole,1
+11233,Donuts,1
+11233,French,1
+11233,Hamburgers,1
+11233,Indian,1
+11233,Italian,1
+11233,"Juice, Smoothies, Fruit Salads",1
+11233,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11233,Mexican,1
+11233,Other,1
+11233,Pizza,1
+11233,Soul Food,1
+11234,American,1
+11234,Armenian,1
+11234,Asian,1
+11234,Bagels/Pretzels,1
+11234,Bakery,1
+11234,CafÃ©/Coffee/Tea,1
+11234,Caribbean,1
+11234,Chicken,1
+11234,Chinese,1
+11234,Chinese/Japanese,1
+11234,Creole,1
+11234,Delicatessen,1
+11234,Donuts,1
+11234,Hamburgers,1
+11234,Hotdogs,1
+11234,"Ice Cream, Gelato, Yogurt, Ices",1
+11234,Indian,1
+11234,Italian,1
+11234,Japanese,1
+11234,Jewish/Kosher,1
+11234,Mediterranean,1
+11234,Mexican,1
+11234,Other,1
+11234,Pancakes/Waffles,1
+11234,Peruvian,1
+11234,Pizza,1
+11234,Pizza/Italian,1
+11234,Sandwiches,1
+11234,Sandwiches/Salads/Mixed Buffet,1
+11234,Seafood,1
+11234,Tex-Mex,1
+11234,Vietnamese/Cambodian/Malaysia,1
+11235,American,1
+11235,Asian,1
+11235,Bagels/Pretzels,1
+11235,Bakery,1
+11235,CafÃ©/Coffee/Tea,1
+11235,Chicken,1
+11235,Chinese,1
+11235,Chinese/Japanese,1
+11235,Delicatessen,1
+11235,Donuts,1
+11235,Eastern European,1
+11235,French,1
+11235,Greek,1
+11235,Hamburgers,1
+11235,"Ice Cream, Gelato, Yogurt, Ices",1
+11235,Indian,1
+11235,Italian,1
+11235,Japanese,1
+11235,Jewish/Kosher,1
+11235,"Juice, Smoothies, Fruit Salads",1
+11235,Korean,1
+11235,Mediterranean,1
+11235,Mexican,1
+11235,Middle Eastern,1
+11235,Other,1
+11235,Pakistani,1
+11235,Pizza,1
+11235,Pizza/Italian,1
+11235,Russian,1
+11235,Sandwiches,1
+11235,Sandwiches/Salads/Mixed Buffet,1
+11235,Seafood,1
+11235,Tex-Mex,1
+11235,Turkish,1
+11236,African,1
+11236,American,1
+11236,Bagels/Pretzels,1
+11236,Bakery,1
+11236,CafÃ©/Coffee/Tea,1
+11236,Caribbean,1
+11236,Chicken,1
+11236,Chinese,1
+11236,Creole,1
+11236,Delicatessen,1
+11236,Donuts,1
+11236,Hamburgers,1
+11236,Italian,1
+11236,Jewish/Kosher,1
+11236,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11236,Mexican,1
+11236,Other,1
+11236,Pizza,1
+11236,Pizza/Italian,1
+11236,Sandwiches,1
+11236,Sandwiches/Salads/Mixed Buffet,1
+11236,Spanish,1
+11236,Tex-Mex,1
+11237,American,1
+11237,Bakery,1
+11237,Barbecue,1
+11237,CafÃ©/Coffee/Tea,1
+11237,Caribbean,1
+11237,Chicken,1
+11237,Chinese,1
+11237,Chinese/Cuban,1
+11237,Creole,1
+11237,Donuts,1
+11237,English,1
+11237,Ethiopian,1
+11237,French,1
+11237,Hamburgers,1
+11237,"Ice Cream, Gelato, Yogurt, Ices",1
+11237,Indian,1
+11237,Italian,1
+11237,Japanese,1
+11237,"Juice, Smoothies, Fruit Salads",1
+11237,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11237,Mexican,1
+11237,Middle Eastern,1
+11237,Other,1
+11237,Pakistani,1
+11237,Peruvian,1
+11237,Pizza,1
+11237,Pizza/Italian,1
+11237,Salads,1
+11237,Sandwiches,1
+11237,Spanish,1
+11237,Tex-Mex,1
+11237,Thai,1
+11237,Vietnamese/Cambodian/Malaysia,1
+11238,African,1
+11238,American,1
+11238,Asian,1
+11238,Bagels/Pretzels,1
+11238,Bakery,1
+11238,"Bottled beverages, including water, sodas, juices, etc.",1
+11238,CafÃ©/Coffee/Tea,1
+11238,Caribbean,1
+11238,Chicken,1
+11238,Chinese,1
+11238,French,1
+11238,Hamburgers,1
+11238,Hotdogs,1
+11238,"Ice Cream, Gelato, Yogurt, Ices",1
+11238,Indian,1
+11238,Italian,1
+11238,Japanese,1
+11238,"Juice, Smoothies, Fruit Salads",1
+11238,Korean,1
+11238,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11238,Mediterranean,1
+11238,Mexican,1
+11238,Middle Eastern,1
+11238,Other,1
+11238,Pizza,1
+11238,Pizza/Italian,1
+11238,Sandwiches,1
+11238,Sandwiches/Salads/Mixed Buffet,1
+11238,Seafood,1
+11238,Soul Food,1
+11238,Spanish,1
+11238,Tex-Mex,1
+11238,Thai,1
+11238,Vegetarian,1
+11238,Vietnamese/Cambodian/Malaysia,1
+11239,American,1
+11239,Caribbean,1
+11239,Chicken,1
+11239,Chinese,1
+11239,Donuts,1
+11239,Italian,1
+11239,"Juice, Smoothies, Fruit Salads",1
+11239,Pizza,1
+11239,Seafood,1
+11241,CafÃ©/Coffee/Tea,1
+11242,Delicatessen,1
+11245,American,1
+11245,Continental,1
+11249,American,1
+11249,Armenian,1
+11249,Asian,1
+11249,Bakery,1
+11249,CafÃ©/Coffee/Tea,1
+11249,Chinese,1
+11249,Creole/Cajun,1
+11249,Delicatessen,1
+11249,Donuts,1
+11249,Eastern European,1
+11249,French,1
+11249,Hawaiian,1
+11249,"Ice Cream, Gelato, Yogurt, Ices",1
+11249,Italian,1
+11249,Japanese,1
+11249,Jewish/Kosher,1
+11249,"Juice, Smoothies, Fruit Salads",1
+11249,Mediterranean,1
+11249,Mexican,1
+11249,Middle Eastern,1
+11249,Other,1
+11249,Pizza,1
+11249,Pizza/Italian,1
+11249,Polish,1
+11249,Sandwiches/Salads/Mixed Buffet,1
+11249,Scandinavian,1
+11249,Seafood,1
+11249,Tapas,1
+11249,Thai,1
+11256,American,1
+11352,Chinese,1
+11354,American,1
+11354,Asian,1
+11354,Bagels/Pretzels,1
+11354,Bakery,1
+11354,"Bottled beverages, including water, sodas, juices, etc.",1
+11354,CafÃ©/Coffee/Tea,1
+11354,Cajun,1
+11354,Chicken,1
+11354,Chinese,1
+11354,Chinese/Japanese,1
+11354,Delicatessen,1
+11354,Donuts,1
+11354,Fruits/Vegetables,1
+11354,Hamburgers,1
+11354,Hotdogs/Pretzels,1
+11354,"Ice Cream, Gelato, Yogurt, Ices",1
+11354,Italian,1
+11354,Japanese,1
+11354,"Juice, Smoothies, Fruit Salads",1
+11354,Korean,1
+11354,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11354,Other,1
+11354,Pancakes/Waffles,1
+11354,Pizza,1
+11354,Pizza/Italian,1
+11354,Sandwiches,1
+11354,Sandwiches/Salads/Mixed Buffet,1
+11354,Seafood,1
+11354,Spanish,1
+11354,Tapas,1
+11354,Vietnamese/Cambodian/Malaysia,1
+11355,Afghan,1
+11355,American,1
+11355,Asian,1
+11355,Bakery,1
+11355,"Bottled beverages, including water, sodas, juices, etc.",1
+11355,CafÃ©/Coffee/Tea,1
+11355,Chicken,1
+11355,Chinese,1
+11355,Chinese/Cuban,1
+11355,Delicatessen,1
+11355,Donuts,1
+11355,Indian,1
+11355,Irish,1
+11355,"Juice, Smoothies, Fruit Salads",1
+11355,Korean,1
+11355,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11355,Middle Eastern,1
+11355,Other,1
+11355,Pakistani,1
+11355,Pizza,1
+11355,Pizza/Italian,1
+11355,Sandwiches,1
+11355,Seafood,1
+11355,Thai,1
+11355,Vegetarian,1
+11355,Vietnamese/Cambodian/Malaysia,1
+11356,Afghan,1
+11356,American,1
+11356,Asian,1
+11356,"Bottled beverages, including water, sodas, juices, etc.",1
+11356,Brazilian,1
+11356,CafÃ©/Coffee/Tea,1
+11356,Chicken,1
+11356,Chinese,1
+11356,Delicatessen,1
+11356,Donuts,1
+11356,Filipino,1
+11356,Hamburgers,1
+11356,Italian,1
+11356,Japanese,1
+11356,Korean,1
+11356,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11356,Mexican,1
+11356,Pizza,1
+11356,Pizza/Italian,1
+11356,Sandwiches,1
+11356,Spanish,1
+11356,Steak,1
+11357,American,1
+11357,Asian,1
+11357,Bagels/Pretzels,1
+11357,Bakery,1
+11357,CafÃ©/Coffee/Tea,1
+11357,Caribbean,1
+11357,Chinese,1
+11357,Chinese/Japanese,1
+11357,Delicatessen,1
+11357,Donuts,1
+11357,German,1
+11357,Greek,1
+11357,Hamburgers,1
+11357,"Ice Cream, Gelato, Yogurt, Ices",1
+11357,Italian,1
+11357,Japanese,1
+11357,"Juice, Smoothies, Fruit Salads",1
+11357,Pizza,1
+11357,Pizza/Italian,1
+11357,Sandwiches,1
+11357,Spanish,1
+11358,American,1
+11358,Asian,1
+11358,Bagels/Pretzels,1
+11358,Bakery,1
+11358,CafÃ©/Coffee/Tea,1
+11358,Chicken,1
+11358,Chinese,1
+11358,Chinese/Japanese,1
+11358,Donuts,1
+11358,Greek,1
+11358,"Ice Cream, Gelato, Yogurt, Ices",1
+11358,Indian,1
+11358,Irish,1
+11358,Italian,1
+11358,Japanese,1
+11358,"Juice, Smoothies, Fruit Salads",1
+11358,Korean,1
+11358,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11358,Mediterranean,1
+11358,Mexican,1
+11358,Middle Eastern,1
+11358,Other,1
+11358,Pizza,1
+11358,Pizza/Italian,1
+11358,Sandwiches,1
+11358,Spanish,1
+11358,Tex-Mex,1
+11358,Thai,1
+11360,American,1
+11360,Asian,1
+11360,Chinese,1
+11360,Continental,1
+11360,Delicatessen,1
+11360,Donuts,1
+11360,Hamburgers,1
+11360,"Ice Cream, Gelato, Yogurt, Ices",1
+11360,Italian,1
+11360,Jewish/Kosher,1
+11360,Pizza/Italian,1
+11360,Steak,1
+11361,American,1
+11361,Asian,1
+11361,Bakery,1
+11361,CafÃ©/Coffee/Tea,1
+11361,Chicken,1
+11361,Chinese,1
+11361,Delicatessen,1
+11361,Donuts,1
+11361,French,1
+11361,Greek,1
+11361,Hamburgers,1
+11361,"Ice Cream, Gelato, Yogurt, Ices",1
+11361,Indian,1
+11361,Irish,1
+11361,Italian,1
+11361,Japanese,1
+11361,"Juice, Smoothies, Fruit Salads",1
+11361,Korean,1
+11361,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11361,Mexican,1
+11361,Peruvian,1
+11361,Pizza,1
+11361,Pizza/Italian,1
+11361,Sandwiches,1
+11361,Sandwiches/Salads/Mixed Buffet,1
+11361,Steak,1
+11361,Tex-Mex,1
+11361,Thai,1
+11361,Vietnamese/Cambodian/Malaysia,1
+11362,American,1
+11362,Asian,1
+11362,Bagels/Pretzels,1
+11362,Bakery,1
+11362,CafÃ©/Coffee/Tea,1
+11362,Chinese,1
+11362,Donuts,1
+11362,French,1
+11362,Greek,1
+11362,Hamburgers,1
+11362,"Ice Cream, Gelato, Yogurt, Ices",1
+11362,Italian,1
+11362,Japanese,1
+11362,Korean,1
+11362,Mexican,1
+11362,Other,1
+11362,Peruvian,1
+11362,Pizza,1
+11362,Pizza/Italian,1
+11362,Spanish,1
+11362,Thai,1
+11362,Turkish,1
+11362,Vietnamese/Cambodian/Malaysia,1
+11363,American,1
+11363,Chinese,1
+11363,Delicatessen,1
+11363,Italian,1
+11363,Pizza/Italian,1
+11364,American,1
+11364,Asian,1
+11364,Bagels/Pretzels,1
+11364,Bakery,1
+11364,CafÃ©/Coffee/Tea,1
+11364,Chinese,1
+11364,Delicatessen,1
+11364,Donuts,1
+11364,Greek,1
+11364,"Ice Cream, Gelato, Yogurt, Ices",1
+11364,Iranian,1
+11364,Irish,1
+11364,Italian,1
+11364,Japanese,1
+11364,Jewish/Kosher,1
+11364,Korean,1
+11364,Other,1
+11364,Pizza,1
+11364,Pizza/Italian,1
+11364,Tex-Mex,1
+11365,Afghan,1
+11365,American,1
+11365,Asian,1
+11365,CafÃ©/Coffee/Tea,1
+11365,Chinese,1
+11365,Delicatessen,1
+11365,Donuts,1
+11365,Hamburgers,1
+11365,"Ice Cream, Gelato, Yogurt, Ices",1
+11365,Italian,1
+11365,Japanese,1
+11365,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11365,Mexican,1
+11365,Middle Eastern,1
+11365,Other,1
+11365,Pakistani,1
+11365,Pizza,1
+11365,Pizza/Italian,1
+11365,Sandwiches/Salads/Mixed Buffet,1
+11365,Spanish,1
+11366,American,1
+11366,Asian,1
+11366,Bakery,1
+11366,CafÃ©/Coffee/Tea,1
+11366,Chicken,1
+11366,Chinese,1
+11366,Donuts,1
+11366,Filipino,1
+11366,French,1
+11366,Hamburgers,1
+11366,"Ice Cream, Gelato, Yogurt, Ices",1
+11366,Italian,1
+11366,Japanese,1
+11366,Jewish/Kosher,1
+11366,"Juice, Smoothies, Fruit Salads",1
+11366,Korean,1
+11366,Mediterranean,1
+11366,Pizza,1
+11366,Pizza/Italian,1
+11366,Polynesian,1
+11366,Russian,1
+11366,Sandwiches,1
+11366,Spanish,1
+11366,Tex-Mex,1
+11366,Thai,1
+11367,Afghan,1
+11367,American,1
+11367,Asian,1
+11367,Chinese,1
+11367,Continental,1
+11367,Delicatessen,1
+11367,Donuts,1
+11367,Hamburgers,1
+11367,"Ice Cream, Gelato, Yogurt, Ices",1
+11367,Japanese,1
+11367,Jewish/Kosher,1
+11367,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11367,Mediterranean,1
+11367,Other,1
+11367,Pizza,1
+11367,Pizza/Italian,1
+11367,Salads,1
+11367,Sandwiches,1
+11367,Vegetarian,1
+11368,African,1
+11368,American,1
+11368,Asian,1
+11368,Bakery,1
+11368,"Bottled beverages, including water, sodas, juices, etc.",1
+11368,Brazilian,1
+11368,CafÃ©/Coffee/Tea,1
+11368,Chicken,1
+11368,Chilean,1
+11368,Chinese,1
+11368,Chinese/Cuban,1
+11368,Continental,1
+11368,Delicatessen,1
+11368,Donuts,1
+11368,Hamburgers,1
+11368,"Ice Cream, Gelato, Yogurt, Ices",1
+11368,Indian,1
+11368,Italian,1
+11368,"Juice, Smoothies, Fruit Salads",1
+11368,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11368,Mexican,1
+11368,Middle Eastern,1
+11368,Not Listed/Not Applicable,1
+11368,Other,1
+11368,Peruvian,1
+11368,Pizza,1
+11368,Pizza/Italian,1
+11368,Sandwiches,1
+11368,Spanish,1
+11369,American,1
+11369,Bagels/Pretzels,1
+11369,Bakery,1
+11369,CafÃ©/Coffee/Tea,1
+11369,Caribbean,1
+11369,Chinese,1
+11369,Continental,1
+11369,Delicatessen,1
+11369,Donuts,1
+11369,Hamburgers,1
+11369,Hotdogs,1
+11369,Italian,1
+11369,Japanese,1
+11369,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11369,Mexican,1
+11369,Peruvian,1
+11369,Pizza,1
+11369,Sandwiches,1
+11369,Sandwiches/Salads/Mixed Buffet,1
+11369,Spanish,1
+11369,Tapas,1
+11370,American,1
+11370,Asian,1
+11370,Chicken,1
+11370,Chinese,1
+11370,Delicatessen,1
+11370,Donuts,1
+11370,French,1
+11370,Greek,1
+11370,"Ice Cream, Gelato, Yogurt, Ices",1
+11370,Indian,1
+11370,Italian,1
+11370,Other,1
+11370,Pakistani,1
+11370,Pizza,1
+11370,Pizza/Italian,1
+11370,Sandwiches,1
+11370,Spanish,1
+11371,American,1
+11371,Bagels/Pretzels,1
+11371,Bakery,1
+11371,"Bottled beverages, including water, sodas, juices, etc.",1
+11371,Delicatessen,1
+11371,Donuts,1
+11371,German,1
+11371,Hamburgers,1
+11371,Italian,1
+11371,Jewish/Kosher,1
+11371,Pizza/Italian,1
+11371,Sandwiches,1
+11371,Sandwiches/Salads/Mixed Buffet,1
+11371,Seafood,1
+11372,American,1
+11372,Asian,1
+11372,Bagels/Pretzels,1
+11372,Bakery,1
+11372,Bangladeshi,1
+11372,"Bottled beverages, including water, sodas, juices, etc.",1
+11372,Brazilian,1
+11372,CafÃ©/Coffee/Tea,1
+11372,Chicken,1
+11372,Chinese,1
+11372,Chinese/Cuban,1
+11372,Continental,1
+11372,Donuts,1
+11372,Hamburgers,1
+11372,"Ice Cream, Gelato, Yogurt, Ices",1
+11372,Indian,1
+11372,Irish,1
+11372,Italian,1
+11372,Japanese,1
+11372,"Juice, Smoothies, Fruit Salads",1
+11372,Korean,1
+11372,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11372,Mexican,1
+11372,Middle Eastern,1
+11372,Other,1
+11372,Pakistani,1
+11372,Pancakes/Waffles,1
+11372,Peruvian,1
+11372,Pizza,1
+11372,Pizza/Italian,1
+11372,Sandwiches,1
+11372,Seafood,1
+11372,Spanish,1
+11372,Tex-Mex,1
+11372,Thai,1
+11373,American,1
+11373,Armenian,1
+11373,Asian,1
+11373,Bagels/Pretzels,1
+11373,Bakery,1
+11373,"Bottled beverages, including water, sodas, juices, etc.",1
+11373,CafÃ©/Coffee/Tea,1
+11373,Cajun,1
+11373,Chicken,1
+11373,Chinese,1
+11373,Continental,1
+11373,Delicatessen,1
+11373,Donuts,1
+11373,Filipino,1
+11373,Hamburgers,1
+11373,"Ice Cream, Gelato, Yogurt, Ices",1
+11373,Indonesian,1
+11373,Irish,1
+11373,Italian,1
+11373,Japanese,1
+11373,"Juice, Smoothies, Fruit Salads",1
+11373,Korean,1
+11373,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11373,Mexican,1
+11373,Other,1
+11373,Peruvian,1
+11373,Pizza,1
+11373,Pizza/Italian,1
+11373,Sandwiches,1
+11373,Sandwiches/Salads/Mixed Buffet,1
+11373,Seafood,1
+11373,Spanish,1
+11373,Steak,1
+11373,Tex-Mex,1
+11373,Thai,1
+11373,Vietnamese/Cambodian/Malaysia,1
+11374,American,1
+11374,Asian,1
+11374,Bagels/Pretzels,1
+11374,Bakery,1
+11374,Barbecue,1
+11374,CafÃ©/Coffee/Tea,1
+11374,Chinese,1
+11374,Chinese/Japanese,1
+11374,Delicatessen,1
+11374,Donuts,1
+11374,Eastern European,1
+11374,Hamburgers,1
+11374,"Ice Cream, Gelato, Yogurt, Ices",1
+11374,Indian,1
+11374,Irish,1
+11374,Italian,1
+11374,Japanese,1
+11374,Jewish/Kosher,1
+11374,"Juice, Smoothies, Fruit Salads",1
+11374,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11374,Mediterranean,1
+11374,Mexican,1
+11374,Middle Eastern,1
+11374,Peruvian,1
+11374,Pizza,1
+11374,Russian,1
+11374,Sandwiches,1
+11374,Seafood,1
+11374,Tex-Mex,1
+11374,Thai,1
+11374,Turkish,1
+11374,Vegetarian,1
+11375,American,1
+11375,Asian,1
+11375,Bagels/Pretzels,1
+11375,Bakery,1
+11375,CafÃ©/Coffee/Tea,1
+11375,Chinese,1
+11375,Continental,1
+11375,Delicatessen,1
+11375,Donuts,1
+11375,French,1
+11375,German,1
+11375,Greek,1
+11375,Hamburgers,1
+11375,"Ice Cream, Gelato, Yogurt, Ices",1
+11375,Indian,1
+11375,Irish,1
+11375,Italian,1
+11375,Japanese,1
+11375,Jewish/Kosher,1
+11375,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11375,Mediterranean,1
+11375,Mexican,1
+11375,Other,1
+11375,Peruvian,1
+11375,Pizza,1
+11375,Pizza/Italian,1
+11375,Russian,1
+11375,Sandwiches,1
+11375,Soups & Sandwiches,1
+11375,Spanish,1
+11375,Steak,1
+11375,Tex-Mex,1
+11375,Thai,1
+11375,Turkish,1
+11377,American,1
+11377,Asian,1
+11377,Bagels/Pretzels,1
+11377,Bakery,1
+11377,Bangladeshi,1
+11377,"Bottled beverages, including water, sodas, juices, etc.",1
+11377,CafÃ©/Coffee/Tea,1
+11377,Chicken,1
+11377,Chinese,1
+11377,Delicatessen,1
+11377,Donuts,1
+11377,Eastern European,1
+11377,Filipino,1
+11377,French,1
+11377,Hamburgers,1
+11377,"Ice Cream, Gelato, Yogurt, Ices",1
+11377,Indian,1
+11377,Irish,1
+11377,Italian,1
+11377,Japanese,1
+11377,Jewish/Kosher,1
+11377,"Juice, Smoothies, Fruit Salads",1
+11377,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11377,Mexican,1
+11377,Not Listed/Not Applicable,1
+11377,Other,1
+11377,Peruvian,1
+11377,Pizza,1
+11377,Pizza/Italian,1
+11377,Sandwiches,1
+11377,Sandwiches/Salads/Mixed Buffet,1
+11377,Seafood,1
+11377,Spanish,1
+11377,Thai,1
+11378,American,1
+11378,Bakery,1
+11378,"Bottled beverages, including water, sodas, juices, etc.",1
+11378,CafÃ©/Coffee/Tea,1
+11378,Chinese,1
+11378,Delicatessen,1
+11378,Donuts,1
+11378,Eastern European,1
+11378,"Ice Cream, Gelato, Yogurt, Ices",1
+11378,Indian,1
+11378,Irish,1
+11378,Italian,1
+11378,Japanese,1
+11378,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11378,Mexican,1
+11378,Other,1
+11378,Peruvian,1
+11378,Pizza,1
+11378,Pizza/Italian,1
+11378,Polish,1
+11378,Sandwiches,1
+11378,Spanish,1
+11378,Tex-Mex,1
+11379,American,1
+11379,Bagels/Pretzels,1
+11379,Bakery,1
+11379,"Bottled beverages, including water, sodas, juices, etc.",1
+11379,CafÃ©/Coffee/Tea,1
+11379,Chicken,1
+11379,Chinese,1
+11379,Donuts,1
+11379,Hamburgers,1
+11379,"Ice Cream, Gelato, Yogurt, Ices",1
+11379,Irish,1
+11379,Italian,1
+11379,Japanese,1
+11379,Other,1
+11379,Peruvian,1
+11379,Pizza,1
+11379,Pizza/Italian,1
+11379,Sandwiches,1
+11379,Spanish,1
+11379,Tex-Mex,1
+11385,American,1
+11385,Bagels/Pretzels,1
+11385,Bakery,1
+11385,Barbecue,1
+11385,"Bottled beverages, including water, sodas, juices, etc.",1
+11385,CafÃ©/Coffee/Tea,1
+11385,Chicken,1
+11385,Chinese,1
+11385,Chinese/Japanese,1
+11385,Delicatessen,1
+11385,Donuts,1
+11385,Eastern European,1
+11385,German,1
+11385,Greek,1
+11385,Hamburgers,1
+11385,"Ice Cream, Gelato, Yogurt, Ices",1
+11385,Indian,1
+11385,Irish,1
+11385,Italian,1
+11385,Japanese,1
+11385,"Juice, Smoothies, Fruit Salads",1
+11385,Korean,1
+11385,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11385,Mediterranean,1
+11385,Mexican,1
+11385,Middle Eastern,1
+11385,Other,1
+11385,Pizza,1
+11385,Pizza/Italian,1
+11385,Polish,1
+11385,Sandwiches,1
+11385,Sandwiches/Salads/Mixed Buffet,1
+11385,Spanish,1
+11385,Tex-Mex,1
+11385,Thai,1
+11385,Vegetarian,1
+11411,American,1
+11411,Bakery,1
+11411,Caribbean,1
+11411,Chicken,1
+11411,Chinese,1
+11411,Creole,1
+11411,Hamburgers,1
+11411,"Juice, Smoothies, Fruit Salads",1
+11411,Tex-Mex,1
+11412,American,1
+11412,Caribbean,1
+11412,Chicken,1
+11412,Chinese,1
+11412,Donuts,1
+11412,Other,1
+11412,Pizza,1
+11412,Pizza/Italian,1
+11412,Seafood,1
+11412,Soul Food,1
+11413,American,1
+11413,Caribbean,1
+11413,Chicken,1
+11413,Chinese,1
+11413,Continental,1
+11413,Hamburgers,1
+11413,Pizza,1
+11413,Sandwiches/Salads/Mixed Buffet,1
+11413,Tex-Mex,1
+11414,American,1
+11414,Bagels/Pretzels,1
+11414,Bakery,1
+11414,CafÃ©/Coffee/Tea,1
+11414,Chicken,1
+11414,Chinese,1
+11414,Chinese/Japanese,1
+11414,Delicatessen,1
+11414,Donuts,1
+11414,Greek,1
+11414,Hamburgers,1
+11414,"Ice Cream, Gelato, Yogurt, Ices",1
+11414,Italian,1
+11414,Japanese,1
+11414,"Juice, Smoothies, Fruit Salads",1
+11414,Other,1
+11414,Pizza,1
+11414,Pizza/Italian,1
+11414,Seafood,1
+11414,Spanish,1
+11414,Turkish,1
+11415,American,1
+11415,Asian,1
+11415,Bagels/Pretzels,1
+11415,Bakery,1
+11415,CafÃ©/Coffee/Tea,1
+11415,Chicken,1
+11415,Chinese,1
+11415,Delicatessen,1
+11415,Donuts,1
+11415,Hamburgers,1
+11415,Indian,1
+11415,Japanese,1
+11415,Jewish/Kosher,1
+11415,"Juice, Smoothies, Fruit Salads",1
+11415,Peruvian,1
+11415,Pizza,1
+11415,Pizza/Italian,1
+11415,Sandwiches/Salads/Mixed Buffet,1
+11415,Tex-Mex,1
+11416,American,1
+11416,Bangladeshi,1
+11416,CafÃ©/Coffee/Tea,1
+11416,Caribbean,1
+11416,Chicken,1
+11416,Chinese,1
+11416,Delicatessen,1
+11416,Donuts,1
+11416,Hamburgers,1
+11416,"Ice Cream, Gelato, Yogurt, Ices",1
+11416,Irish,1
+11416,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11416,Other,1
+11416,Peruvian,1
+11416,Pizza,1
+11416,Pizza/Italian,1
+11416,Sandwiches,1
+11416,Spanish,1
+11417,American,1
+11417,Asian,1
+11417,Bakery,1
+11417,Caribbean,1
+11417,Chicken,1
+11417,Chinese,1
+11417,Delicatessen,1
+11417,Donuts,1
+11417,Hamburgers,1
+11417,"Ice Cream, Gelato, Yogurt, Ices",1
+11417,Italian,1
+11417,Mexican,1
+11417,Middle Eastern,1
+11417,Other,1
+11417,Pancakes/Waffles,1
+11417,Peruvian,1
+11417,Pizza,1
+11417,Pizza/Italian,1
+11417,Sandwiches,1
+11417,Spanish,1
+11418,Afghan,1
+11418,American,1
+11418,Asian,1
+11418,Bakery,1
+11418,"Bottled beverages, including water, sodas, juices, etc.",1
+11418,CafÃ©/Coffee/Tea,1
+11418,Caribbean,1
+11418,Chicken,1
+11418,Chinese,1
+11418,Delicatessen,1
+11418,Donuts,1
+11418,Hamburgers,1
+11418,Indian,1
+11418,Italian,1
+11418,Japanese,1
+11418,Jewish/Kosher,1
+11418,"Juice, Smoothies, Fruit Salads",1
+11418,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11418,Mexican,1
+11418,Pakistani,1
+11418,Peruvian,1
+11418,Pizza,1
+11418,Pizza/Italian,1
+11418,Sandwiches,1
+11418,Sandwiches/Salads/Mixed Buffet,1
+11418,Seafood,1
+11418,Spanish,1
+11419,American,1
+11419,Bakery,1
+11419,"Bottled beverages, including water, sodas, juices, etc.",1
+11419,CafÃ©/Coffee/Tea,1
+11419,Caribbean,1
+11419,Chicken,1
+11419,Chinese,1
+11419,Donuts,1
+11419,Hamburgers,1
+11419,"Ice Cream, Gelato, Yogurt, Ices",1
+11419,Indian,1
+11419,Italian,1
+11419,Pizza,1
+11419,Pizza/Italian,1
+11419,Spanish,1
+11419,Vegetarian,1
+11420,American,1
+11420,Asian,1
+11420,"Bottled beverages, including water, sodas, juices, etc.",1
+11420,Caribbean,1
+11420,Chicken,1
+11420,Chinese,1
+11420,Chinese/Japanese,1
+11420,Continental,1
+11420,Donuts,1
+11420,"Ice Cream, Gelato, Yogurt, Ices",1
+11420,Indian,1
+11420,Italian,1
+11420,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11420,Pizza,1
+11420,Sandwiches,1
+11420,Sandwiches/Salads/Mixed Buffet,1
+11420,Spanish,1
+11420,Steak,1
+11421,American,1
+11421,Asian,1
+11421,Bagels/Pretzels,1
+11421,Bakery,1
+11421,"Bottled beverages, including water, sodas, juices, etc.",1
+11421,CafÃ©/Coffee/Tea,1
+11421,Chicken,1
+11421,Chinese,1
+11421,Donuts,1
+11421,Irish,1
+11421,Japanese,1
+11421,"Juice, Smoothies, Fruit Salads",1
+11421,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11421,Mexican,1
+11421,Middle Eastern,1
+11421,Peruvian,1
+11421,Pizza,1
+11421,Pizza/Italian,1
+11421,Sandwiches,1
+11421,Sandwiches/Salads/Mixed Buffet,1
+11421,Spanish,1
+11421,Thai,1
+11422,American,1
+11422,CafÃ©/Coffee/Tea,1
+11422,Caribbean,1
+11422,Chicken,1
+11422,Chinese,1
+11422,Creole,1
+11422,Donuts,1
+11422,Mediterranean,1
+11422,Pancakes/Waffles,1
+11422,Pizza,1
+11422,Soul Food,1
+11422,Spanish,1
+11423,American,1
+11423,Bakery,1
+11423,Caribbean,1
+11423,Chicken,1
+11423,Chinese,1
+11423,Delicatessen,1
+11423,Donuts,1
+11423,Hamburgers,1
+11423,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11423,Mexican,1
+11423,Pizza,1
+11423,Sandwiches/Salads/Mixed Buffet,1
+11426,American,1
+11426,Bakery,1
+11426,CafÃ©/Coffee/Tea,1
+11426,Chinese,1
+11426,Delicatessen,1
+11426,Donuts,1
+11426,Indian,1
+11426,Italian,1
+11426,Japanese,1
+11426,Middle Eastern,1
+11426,Pizza,1
+11426,Sandwiches,1
+11426,Vegetarian,1
+11427,American,1
+11427,Chicken,1
+11427,Chinese,1
+11427,Donuts,1
+11427,Hamburgers,1
+11427,Indian,1
+11427,Italian,1
+11427,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11427,Pizza,1
+11427,Sandwiches,1
+11428,American,1
+11428,Bakery,1
+11428,CafÃ©/Coffee/Tea,1
+11428,Caribbean,1
+11428,Chicken,1
+11428,Chinese,1
+11428,Creole,1
+11428,Donuts,1
+11428,Filipino,1
+11428,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11428,Mexican,1
+11428,Pizza,1
+11428,Portuguese,1
+11428,Sandwiches,1
+11428,Spanish,1
+11428,Tex-Mex,1
+11429,American,1
+11429,Bakery,1
+11429,Caribbean,1
+11429,Chicken,1
+11429,Chinese,1
+11429,Creole,1
+11429,Donuts,1
+11429,Hamburgers,1
+11429,"Juice, Smoothies, Fruit Salads",1
+11429,Pizza,1
+11430,American,1
+11430,Asian,1
+11430,Bagels/Pretzels,1
+11430,Bakery,1
+11430,CafÃ©/Coffee/Tea,1
+11430,Chinese,1
+11430,Continental,1
+11430,Delicatessen,1
+11430,Donuts,1
+11430,French,1
+11430,German,1
+11430,Hamburgers,1
+11430,Indian,1
+11430,Italian,1
+11430,Japanese,1
+11430,Jewish/Kosher,1
+11430,"Juice, Smoothies, Fruit Salads",1
+11430,Korean,1
+11430,Mexican,1
+11430,Middle Eastern,1
+11430,Other,1
+11430,Pizza,1
+11430,Pizza/Italian,1
+11430,Salads,1
+11430,Sandwiches,1
+11430,Sandwiches/Salads/Mixed Buffet,1
+11430,Seafood,1
+11430,Steak,1
+11432,American,1
+11432,Asian,1
+11432,Bagels/Pretzels,1
+11432,Bakery,1
+11432,Bangladeshi,1
+11432,"Bottled beverages, including water, sodas, juices, etc.",1
+11432,CafÃ©/Coffee/Tea,1
+11432,Cajun,1
+11432,Caribbean,1
+11432,Chicken,1
+11432,Chinese,1
+11432,Delicatessen,1
+11432,Donuts,1
+11432,Filipino,1
+11432,Hamburgers,1
+11432,Hotdogs/Pretzels,1
+11432,Indian,1
+11432,Japanese,1
+11432,"Juice, Smoothies, Fruit Salads",1
+11432,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11432,Mexican,1
+11432,Middle Eastern,1
+11432,Other,1
+11432,Pakistani,1
+11432,Pancakes/Waffles,1
+11432,Peruvian,1
+11432,Pizza,1
+11432,Pizza/Italian,1
+11432,Salads,1
+11432,Sandwiches,1
+11432,Seafood,1
+11432,Spanish,1
+11432,Thai,1
+11432,Vegetarian,1
+11433,American,1
+11433,CafÃ©/Coffee/Tea,1
+11433,Caribbean,1
+11433,Chicken,1
+11433,Chinese,1
+11433,"Juice, Smoothies, Fruit Salads",1
+11433,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11433,Pizza,1
+11433,Sandwiches,1
+11434,African,1
+11434,American,1
+11434,Bakery,1
+11434,CafÃ©/Coffee/Tea,1
+11434,Caribbean,1
+11434,Chicken,1
+11434,Chinese,1
+11434,Delicatessen,1
+11434,Donuts,1
+11434,Hamburgers,1
+11434,Indian,1
+11434,Other,1
+11434,Pizza,1
+11434,Sandwiches,1
+11434,Sandwiches/Salads/Mixed Buffet,1
+11434,Seafood,1
+11434,Soul Food,1
+11434,Spanish,1
+11434,Tex-Mex,1
+11434,Vegetarian,1
+11435,African,1
+11435,American,1
+11435,Bakery,1
+11435,CafÃ©/Coffee/Tea,1
+11435,Caribbean,1
+11435,Chicken,1
+11435,Chinese,1
+11435,Delicatessen,1
+11435,Donuts,1
+11435,Hamburgers,1
+11435,Indian,1
+11435,Italian,1
+11435,Japanese,1
+11435,Jewish/Kosher,1
+11435,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11435,Mexican,1
+11435,Middle Eastern,1
+11435,Other,1
+11435,Peruvian,1
+11435,Pizza,1
+11435,Portuguese,1
+11435,Sandwiches,1
+11435,Sandwiches/Salads/Mixed Buffet,1
+11435,Spanish,1
+11436,American,1
+11436,Caribbean,1
+11436,Chicken,1
+11436,Chinese,1
+11436,Donuts,1
+11436,Indian,1
+11436,Pizza,1
+11451,American,1
+11691,American,1
+11691,CafÃ©/Coffee/Tea,1
+11691,Caribbean,1
+11691,Chicken,1
+11691,Chinese,1
+11691,Donuts,1
+11691,Hamburgers,1
+11691,Jewish/Kosher,1
+11691,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11691,Pizza,1
+11691,Sandwiches,1
+11691,Sandwiches/Salads/Mixed Buffet,1
+11691,Spanish,1
+11691,Tex-Mex,1
+11692,Caribbean,1
+11692,Chinese,1
+11692,Donuts,1
+11692,"Juice, Smoothies, Fruit Salads",1
+11692,Pizza,1
+11692,Sandwiches/Salads/Mixed Buffet,1
+11692,Thai,1
+11693,American,1
+11693,Asian,1
+11693,Bagels/Pretzels,1
+11693,Bakery,1
+11693,"Bottled beverages, including water, sodas, juices, etc.",1
+11693,Chinese,1
+11693,Donuts,1
+11693,"Ice Cream, Gelato, Yogurt, Ices",1
+11693,Irish,1
+11693,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11693,Mediterranean,1
+11693,Peruvian,1
+11693,Pizza,1
+11693,Pizza/Italian,1
+11693,Russian,1
+11693,Thai,1
+11694,American,1
+11694,Bagels/Pretzels,1
+11694,Bakery,1
+11694,"Bottled beverages, including water, sodas, juices, etc.",1
+11694,CafÃ©/Coffee/Tea,1
+11694,Chinese,1
+11694,Delicatessen,1
+11694,Donuts,1
+11694,French,1
+11694,"Ice Cream, Gelato, Yogurt, Ices",1
+11694,Italian,1
+11694,Japanese,1
+11694,"Juice, Smoothies, Fruit Salads",1
+11694,"Latin (Cuban, Dominican, Puerto Rican, South & Central American)",1
+11694,Mediterranean,1
+11694,Mexican,1
+11694,Pizza,1
+11694,Pizza/Italian,1
+11694,Steak,1
+11697,American,1
