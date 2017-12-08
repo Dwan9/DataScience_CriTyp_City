@@ -1,0 +1,30 @@
+Column Name,Meaning
+date,Happening date of a crime
+time,Happening time in a day of a crime
+lat,Happening latitude of a crime
+lon,Happening longitude of a crime
+LEVEL_FELONY,"Whether this crime is of type felony. 1 for yes, 0 for no"
+LEVEL_MISDEMEANOR,"Whether this crime is of type misdemeanor. 1 for yes, 0 for no"
+LEVEL_VIOLATION,"Whether this crime is of type violation. 1 for yes, 0 for no"
+zipcode,Zipcode where the geolocation is in
+res_max_type,The type of restaurant in this zipcode that has the most number
+res_max_type_count,The number of restaurant of res_max_type
+res_total_count,The total number of restaurant in this zipcode
+avg_house_sell_price,The average house selling price in this zipcode in recent years
+avg_house_rent_price,The average house rent price in this zipcode in recent years
+lib_count1,The number of library in this zipcode
+lib_count5,The number of library in the nearest 5 zipcode area
+lib_count15,The number of library in the nearest 15 zipcode area
+mus_count1,The number of museum in this zipcode
+mus_count5,The number of museum in the nearest 5 zipcode area
+mus_count15,The number of museum in the nearest 15 zipcode area
+store_business_type_count,The number of store with type “business” in the zipcode
+store_individual_type_count,The number of store with type “individual” in the zipcode
+univ_count1,The number of university in this zipcode
+univ_count5,The number of university in the nearest 5 zipcode area
+univ_count15,The number of university in the nearest 15 zipcode area
+population,The population in this zipcode area
+hospital_count5,The number of hospital in the nearest 5 zipcode area
+hospital_count10,The number of hospital in the nearest 10 zipcode area
+hospital_count15,The number of hospital in the nearest 15 zipcode area
+park_area,The area of park in this zipcode
